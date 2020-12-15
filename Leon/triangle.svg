@@ -12,7 +12,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg919"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="triangle.svg">
   <defs
      id="defs913">
@@ -112,17 +112,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
+<<<<<<< HEAD
      inkscape:zoom="0.48172982"
      inkscape:cx="512.80553"
      inkscape:cy="706.20591"
+=======
+     inkscape:zoom="1.4613205"
+     inkscape:cx="665.98302"
+     inkscape:cy="410.03498"
+>>>>>>> 3a492a8b79f67281b2c80d8dc9c8e23f55dd6fed
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="898"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata916">
@@ -439,39 +445,34 @@
          style="stroke-width:0.151377">正放测量</tspan><tspan
          sodipodi:role="line"
          x="18.562496"
-         y="22.809114"
+         y="22.460125"
          style="stroke-width:0.151377"
          id="tspan1640">连点 顶着边 推到角</tspan><tspan
          sodipodi:role="line"
          x="18.562496"
-         y="29.335192"
+         y="28.637213"
          style="stroke-width:0.151377"
          id="tspan1642">三角板边退 标了几个推了几次</tspan><tspan
          sodipodi:role="line"
          x="18.562496"
-         y="35.51228"
+         y="34.814301"
          style="stroke-width:0.151377"
          id="tspan1644">AxisAngleLocate</tspan><tspan
          sodipodi:role="line"
          x="18.562496"
-         y="41.567368"
+         y="40.869389"
          style="stroke-width:0.151377"
          id="tspan1680">AxisSideBenchmark.Accurate.Push</tspan><tspan
          sodipodi:role="line"
          x="18.562496"
-         y="47.622456"
+         y="46.924477"
          style="stroke-width:0.151377"
          id="tspan1682">Axis.CenterMarked.Offset.Move-&gt;Direct.Top</tspan><tspan
          sodipodi:role="line"
          x="18.562496"
-         y="53.677544"
+         y="52.979565"
          style="stroke-width:0.151377"
-         id="tspan1684">    Depends.DirectiveSat:Bottom</tspan><tspan
-         sodipodi:role="line"
-         x="18.562496"
-         y="59.732628"
-         style="stroke-width:0.151377"
-         id="tspan376">Direct.Bottom.DoubleAngle.KolorPush</tspan></text>
+         id="tspan1684">    Depends.DirectiveSat:Bottom</tspan></text>
     <path
        d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z"
        transform="matrix(-2.6943194,5.0241149,-5.0270262,-2.696121,736.03965,-455.67557)"
