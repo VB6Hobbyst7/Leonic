@@ -112,9 +112,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59241723"
-     inkscape:cx="396.85039"
-     inkscape:cy="561.25984"
+     inkscape:zoom="0.48172982"
+     inkscape:cx="512.80553"
+     inkscape:cy="706.20591"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -279,8 +279,8 @@
     <circle
        style="fill:#f9f9f9;stroke:#000000;stroke-width:0.51335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="circle2502"
-       cx="-68.189796"
-       cy="-65.983269"
+       cx="-293.21292"
+       cy="105.24738"
        r="14.306663"
        transform="rotate(-105)" />
     <rect
@@ -288,8 +288,8 @@
        id="rect882"
        width="7.1166086"
        height="7.1166086"
-       x="-25.424406"
-       y="74.76387" />
+       x="173.99194"
+       y="252.4236" />
     <path
        d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z"
        inkscape:transform-center-y="1.4307375"
@@ -309,7 +309,7 @@
        sodipodi:type="star"
        transform="matrix(-0.77181687,-0.41390798,0.41418476,-0.77226415,340.98311,144.40882)" />
     <path
-       transform="matrix(-0.41390798,-0.77181687,-0.77226415,0.41418476,363.87807,125.00714)"
+       transform="matrix(-0.95630962,-1.7832367,-1.7842701,0.9569491,279.80199,447.67232)"
        sodipodi:type="star"
        style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="path1560"
@@ -323,11 +323,11 @@
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       inkscape:transform-center-x="-1.4307332"
-       inkscape:transform-center-y="2.1649046"
+       inkscape:transform-center-x="-3.3056219"
+       inkscape:transform-center-y="5.0018808"
        d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z" />
     <path
-       transform="matrix(0.77181687,-0.41390798,-0.41418476,-0.77226415,193.37433,144.49062)"
+       transform="matrix(-0.6145264,-1.1459113,-1.1465754,0.61493733,200.31966,370.70447)"
        sodipodi:type="star"
        style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="path1562"
@@ -341,8 +341,8 @@
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       inkscape:transform-center-x="2.1649028"
-       inkscape:transform-center-y="1.4307333"
+       inkscape:transform-center-x="-2.1242021"
+       inkscape:transform-center-y="3.2142033"
        d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z" />
     <path
        d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z"
@@ -590,24 +590,24 @@
        style="fill:#999999;fill-opacity:1;stroke:#2b0000;stroke-width:0.042771;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter1614)" />
     <text
        id="text2950"
-       y="83.985794"
-       x="152.09624"
+       y="62.548199"
+       x="183.80602"
        style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="83.985794"
-         x="152.09624"
+         y="62.548199"
+         x="183.80602"
          id="tspan2948"
          sodipodi:role="line">三角</tspan><tspan
          id="tspan2954"
          style="stroke-width:0.264583"
-         y="94.782372"
-         x="152.09624"
+         y="73.741516"
+         x="183.80602"
          sodipodi:role="line">融</tspan><tspan
          id="tspan2952"
          style="stroke-width:0.264583"
-         y="105.57894"
-         x="152.09624"
+         y="84.934837"
+         x="183.80602"
          sodipodi:role="line">推</tspan></text>
     <path
        inkscape:connector-curvature="0"
@@ -663,5 +663,129 @@
          d="m 168.20992,126.4975 a 1.0812286,1.0812286 0 0 1 -1.08121,-1.08122 1.0812286,1.0812286 0 0 1 1.08121,-1.08123 1.0812286,1.0812286 0 0 1 1.08124,1.08123 1.0812286,1.0812286 0 0 1 -1.08124,1.08122 z"
          style="fill:#999999;fill-opacity:1;stroke:#2b0000;stroke-width:0.0198656;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter1614)" />
     </g>
+    <path
+       transform="matrix(0.95630962,1.7832367,1.7842701,-0.9569491,-117.76826,34.57198)"
+       sodipodi:type="star"
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path378"
+       sodipodi:sides="3"
+       sodipodi:cx="145.64082"
+       sodipodi:cy="46.532131"
+       sodipodi:r1="13.793383"
+       sodipodi:r2="6.8966923"
+       sodipodi:arg1="0.56149366"
+       sodipodi:arg2="1.6086912"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-x="-3.3056219"
+       inkscape:transform-center-y="5.0018808"
+       d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z" />
+    <path
+       transform="matrix(0.6145264,1.1459113,1.1465754,-0.61493733,-38.28593,111.53983)"
+       sodipodi:type="star"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path380"
+       sodipodi:sides="3"
+       sodipodi:cx="145.64082"
+       sodipodi:cy="46.532131"
+       sodipodi:r1="13.793383"
+       sodipodi:r2="6.8966923"
+       sodipodi:arg1="0.56149366"
+       sodipodi:arg2="1.6086912"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-x="-2.1242021"
+       inkscape:transform-center-y="3.2142033"
+       d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect390"
+       width="4.6342859"
+       height="4.6342859"
+       x="120.16253"
+       y="258.67981" />
+    <path
+       transform="matrix(0.95630963,1.7832367,1.7842701,-0.9569491,36.02392,33.92594)"
+       sodipodi:type="star"
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path378-1"
+       sodipodi:sides="3"
+       sodipodi:cx="145.64082"
+       sodipodi:cy="46.532131"
+       sodipodi:r1="13.793383"
+       sodipodi:r2="6.8966923"
+       sodipodi:arg1="0.56149366"
+       sodipodi:arg2="1.6086912"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-x="-3.3056219"
+       inkscape:transform-center-y="5.0018808"
+       d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z" />
+    <path
+       transform="matrix(0.71288577,1.3293227,1.330093,-0.71336247,92.74297,88.46362)"
+       sodipodi:type="star"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path380-6"
+       sodipodi:sides="3"
+       sodipodi:cx="145.64082"
+       sodipodi:cy="46.532131"
+       sodipodi:r1="13.793383"
+       sodipodi:r2="6.8966923"
+       sodipodi:arg1="0.56149366"
+       sodipodi:arg2="1.6086912"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-x="-2.4641953"
+       inkscape:transform-center-y="3.7286743"
+       d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.153263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect390-5"
+       width="3.5321462"
+       height="3.5706139"
+       x="276.55225"
+       y="259.15445" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.036077;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1215"
+       width="0.83144373"
+       height="0.84049881"
+       x="280.97015"
+       y="261.86069" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="96.390907"
+       y="279.01184"
+       id="text1243"><tspan
+         sodipodi:role="line"
+         id="tspan1241"
+         x="96.390907"
+         y="279.01184"
+         style="stroke-width:0.264583">正三角形不能准确的inner推角量</tspan><tspan
+         sodipodi:role="line"
+         x="96.390907"
+         y="293.00345"
+         style="stroke-width:0.264583"
+         id="tspan1245">引出直角三角形</tspan><tspan
+         sodipodi:role="line"
+         x="96.390907"
+         y="306.99503"
+         style="stroke-width:0.264583"
+         id="tspan1247">正方形缩小累加stick-trans</tspan><tspan
+         sodipodi:role="line"
+         x="96.390907"
+         y="321.25317"
+         style="stroke-width:0.264583"
+         id="tspan1249">intelligent?.单/无色.丈量</tspan><tspan
+         sodipodi:role="line"
+         x="96.390907"
+         y="334.74884"
+         style="stroke-width:0.264583"
+         id="tspan1251" /></text>
   </g>
 </svg>
