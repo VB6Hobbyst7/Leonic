@@ -753,9 +753,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22394844"
-     inkscape:cx="2322.2399"
-     inkscape:cy="2238.5356"
+     inkscape:zoom="0.63342183"
+     inkscape:cx="872.03157"
+     inkscape:cy="3028.7066"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -2783,7 +2783,17 @@
          style="stroke-width:0.346345"
          y="-244.82094"
          x="40.935066"
-         sodipodi:role="line">   settled|situate|locate|liedin</tspan></text>
+         sodipodi:role="line">   settled|situate|locate|liedin</tspan><tspan
+         id="tspan1367"
+         style="stroke-width:0.346345"
+         y="-230.96718"
+         x="40.935066"
+         sodipodi:role="line">   Question.TriangleCount.Used</tspan><tspan
+         id="tspan1369"
+         style="stroke-width:0.346345"
+         y="-217.11343"
+         x="40.935066"
+         sodipodi:role="line">    Rotation.Screen</tspan></text>
     <path
        transform="matrix(0,0.4506971,-0.45550704,0,-315.93766,-350.77507)"
        inkscape:transform-center-y="-7.6808581e-06"
@@ -2874,20 +2884,20 @@
        sodipodi:type="star" />
     <text
        id="text1317"
-       y="-454.51111"
-       x="434.46301"
-       style="font-size:20.9121px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke:none;stroke-width:0.653502"
+       y="-456.24084"
+       x="434.61435"
+       style="font-size:18.65px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke:none;stroke-width:0.582811"
        xml:space="preserve"><tspan
-         style="fill:#000000;stroke:none;stroke-width:0.653502"
-         y="-454.51111"
-         x="434.46301"
+         style="fill:#000000;stroke:none;stroke-width:0.582811"
+         y="-456.24084"
+         x="434.61435"
          id="tspan1315"
-         sodipodi:role="line">Half.Moveto.Angle</tspan><tspan
+         sodipodi:role="line">Is~Half.Moveto.Angle</tspan><tspan
          id="tspan1319"
-         style="fill:#000000;stroke:none;stroke-width:0.653502"
-         y="-428.37097"
-         x="434.46301"
-         sodipodi:role="line">Rotate.Aqualsto=</tspan></text>
+         style="fill:#000000;stroke:none;stroke-width:0.582811"
+         y="-432.92834"
+         x="434.61435"
+         sodipodi:role="line">Rotate.Aqualsto</tspan></text>
     <rect
        transform="rotate(135)"
        y="127.48737"
