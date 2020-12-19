@@ -785,6 +785,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,1000)">
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6, 6;paint-order:markers fill stroke;stroke-dashoffset:0"
+       id="rect1334-9"
+       width="198.65776"
+       height="198.65776"
+       x="-787.22125"
+       y="-150.774"
+       transform="rotate(135)" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:1.59214;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 89.602558,-158.39131 c -2.042829,-0.7965 -4.326434,-0.9628 -6.463106,-0.47067 -2.136673,0.49213 -4.117449,1.64062 -5.606036,3.25048 -1.488587,1.60987 -2.47874,3.67435 -2.802352,5.84296 -0.323612,2.1686 0.02067,4.43222 0.974407,6.40654 0.391152,0.80973 0.879683,1.56773 1.348273,2.33524 0.468427,0.76725 0.918027,1.54599 1.348259,2.33529"
@@ -2866,20 +2874,20 @@
        sodipodi:type="star" />
     <text
        id="text1317"
-       y="-501.76901"
-       x="441.5517"
-       style="font-size:20.9121px;line-height:1.25;font-family:sans-serif;stroke-width:0.653502;stroke:#ff0000;"
+       y="-454.51111"
+       x="434.46301"
+       style="font-size:20.9121px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke:none;stroke-width:0.653502"
        xml:space="preserve"><tspan
-         style="stroke-width:0.653502;stroke:#ff0000;"
-         y="-501.76901"
-         x="441.5517"
+         style="fill:#000000;stroke:none;stroke-width:0.653502"
+         y="-454.51111"
+         x="434.46301"
          id="tspan1315"
          sodipodi:role="line">Half.Moveto.Angle</tspan><tspan
          id="tspan1319"
-         style="stroke-width:0.653502;stroke:#ff0000;"
-         y="-475.62888"
-         x="441.5517"
-         sodipodi:role="line">Rotate.Equals</tspan></text>
+         style="fill:#000000;stroke:none;stroke-width:0.653502"
+         y="-428.37097"
+         x="434.46301"
+         sodipodi:role="line">Rotate.Aqualsto=</tspan></text>
     <rect
        transform="rotate(135)"
        y="127.48737"
