@@ -255,17 +255,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.3243119"
-     inkscape:cx="700.49058"
-     inkscape:cy="1053.4212"
+     inkscape:zoom="11.747493"
+     inkscape:cx="478.10541"
+     inkscape:cy="902.46195"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1582"
-     inkscape:window-height="1074"
-     inkscape:window-x="55"
-     inkscape:window-y="-8"
+     inkscape:window-width="2769"
+     inkscape:window-height="1880"
+     inkscape:window-x="99"
+     inkscape:window-y="-12"
      inkscape:window-maximized="1"
      showguides="false" />
   <metadata
@@ -287,12 +287,12 @@
     <rect
        ry="0"
        rx="0"
-       y="-175.04259"
-       x="266.3298"
+       y="-118.45502"
+       x="221.716"
        height="3.2250786"
        width="3.1935267"
        id="rect1749"
-       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.0252673;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.0252673;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        transform="rotate(90)" />
     <rect
        ry="0"
@@ -375,8 +375,8 @@
        id="rect2137"
        width="29.1054"
        height="29.1054"
-       x="128.41586"
-       y="35.957096"
+       x="119.23811"
+       y="7.4448528"
        rx="0"
        ry="0" />
     <circle
@@ -652,95 +652,95 @@
        inkscape:original-d="m -92.22242,197.15795 c -2.6e-4,8.39464 -2.6e-4,16.78902 0,25.18312 -0.0111,2.6e-4 -0.022,2.6e-4 -0.0325,0" />
     <text
        xml:space="preserve"
-       style="font-size:4.473px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.139781"
+       style="font-size:3.25371px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.101678"
        x="3.9097371"
-       y="5.3249459"
+       y="4.3985715"
        id="text2696"><tspan
          sodipodi:role="line"
          id="tspan2694"
          x="3.9097371"
-         y="5.3249459"
-         style="stroke-width:0.139781">Konpared.R(T)//Compared</tspan><tspan
+         y="4.3985715"
+         style="stroke-width:0.101678">Konpared.R(T)//Compared</tspan><tspan
          sodipodi:role="line"
          x="3.9097371"
-         y="10.916197"
-         style="stroke-width:0.139781"
+         y="8.4657097"
+         style="stroke-width:0.101678"
          id="tspan2698">Rotate.Desperse.Regroup</tspan><tspan
          sodipodi:role="line"
          x="3.9097371"
-         y="16.507446"
-         style="stroke-width:0.139781"
+         y="12.532847"
+         style="stroke-width:0.101678"
          id="tspan2700">R[T].Leon.JustRightChange</tspan><tspan
          sodipodi:role="line"
          x="3.9097371"
-         y="22.098696"
-         style="stroke-width:0.139781"
+         y="16.599985"
+         style="stroke-width:0.101678"
          id="tspan2704">Axis.Co-Center != AxisR[T].EachCenter</tspan><tspan
          sodipodi:role="line"
          x="3.9097371"
-         y="27.689945"
-         style="stroke-width:0.139781"
+         y="20.667124"
+         style="stroke-width:0.101678"
          id="tspan2706">KolorOffset.FlatTinyDimention~|-Tricyle-|~Metric.MinorSpace</tspan><tspan
          sodipodi:role="line"
          x="3.9097371"
-         y="33.281197"
-         style="stroke-width:0.139781"
+         y="24.734262"
+         style="stroke-width:0.101678"
          id="tspan2702">Count:Used</tspan><tspan
          id="tspan937"
          sodipodi:role="line"
          x="3.9097371"
-         y="38.872448"
-         style="stroke-width:0.139781">Accuercy:</tspan><tspan
+         y="28.801401"
+         style="stroke-width:0.101678">Accuercy:</tspan><tspan
          id="tspan1021"
          sodipodi:role="line"
          x="3.9097371"
-         y="44.463696"
-         style="stroke-width:0.139781">Think.LineFirst.ConnectDot.Half:Area.SnicInfluence</tspan><tspan
+         y="32.868538"
+         style="stroke-width:0.101678">Think.LineFirst.ConnectDot.Half:Area.SnicInfluence</tspan><tspan
          id="tspan1077"
          sodipodi:role="line"
          x="3.9097371"
-         y="50.054947"
-         style="stroke-width:0.139781">Sequece</tspan><tspan
+         y="36.935677"
+         style="stroke-width:0.101678">Sequece</tspan><tspan
          id="tspan1079"
          sodipodi:role="line"
          x="3.9097371"
-         y="55.646198"
-         style="stroke-width:0.139781">Think.AreaFirst.InnerSide:4/1.SizeRectangle</tspan><tspan
+         y="41.002815"
+         style="stroke-width:0.101678">Think.AreaFirst.InnerSide:4/1.SizeRectangle</tspan><tspan
          id="tspan1183"
          sodipodi:role="line"
          x="3.9097371"
-         y="61.23745"
-         style="stroke-width:0.139781">KolorLine.HalfDivided.3Sizes!=Earth.Times</tspan><tspan
+         y="45.069954"
+         style="stroke-width:0.101678">KolorLine.HalfDivided.3Sizes!=Earth.Times</tspan><tspan
          id="tspan1213"
          sodipodi:role="line"
          x="3.9097371"
-         y="66.828697"
-         style="stroke-width:0.139781">    Utility:Parellel,Single,Mutilple,Opposite</tspan><tspan
+         y="49.137093"
+         style="stroke-width:0.101678">    Utility:Parellel,Single,Mutilple,Opposite</tspan><tspan
          id="tspan1199"
          sodipodi:role="line"
          x="3.9097371"
-         y="72.419945"
-         style="stroke-width:0.139781">CountLine</tspan><tspan
+         y="53.204227"
+         style="stroke-width:0.101678">CountLine</tspan><tspan
          id="tspan1209"
          sodipodi:role="line"
          x="3.9097371"
-         y="78.0112"
-         style="stroke-width:0.139781">    Diamond:ColorLine.SocalledSmallArea.DashShow</tspan><tspan
+         y="57.271366"
+         style="stroke-width:0.101678">    Diamond:ColorLine.SocalledSmallArea.DashShow</tspan><tspan
          id="tspan1201"
          sodipodi:role="line"
          x="3.9097371"
-         y="83.602448"
-         style="stroke-width:0.139781">CountArea</tspan><tspan
+         y="61.338505"
+         style="stroke-width:0.101678">CountArea</tspan><tspan
          id="tspan1203"
          sodipodi:role="line"
          x="3.9097371"
-         y="89.193695"
-         style="stroke-width:0.139781">RenliyOnly?.Measurement.Simplicity.Inside.KoverColor</tspan><tspan
+         y="65.405647"
+         style="stroke-width:0.101678">RenliyOnly?.Measurement.Simplicity.Inside.KoverColor</tspan><tspan
          id="tspan1211"
          sodipodi:role="line"
          x="3.9097371"
-         y="94.78495"
-         style="stroke-width:0.139781">    Outside.Comfused.ViaCount</tspan></text>
+         y="69.472778"
+         style="stroke-width:0.101678">    Outside.Comfused.ViaCount</tspan></text>
     <rect
        y="90.203018"
        x="-52.84082"
@@ -753,36 +753,36 @@
        id="rect882-3"
        width="7.1166086"
        height="7.1166086"
-       x="27.250183"
-       y="118.7321" />
+       x="29.208105"
+       y="99.152878" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 0.5;stroke-dashoffset:0;paint-order:markers fill stroke"
        id="rect882-38"
        width="7.1166086"
        height="7.1166086"
-       x="34.366798"
-       y="125.84872" />
+       x="36.324722"
+       y="106.26949" />
     <rect
        transform="rotate(45)"
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 0.5;stroke-dashoffset:0;paint-order:markers fill stroke"
        id="rect882-2"
        width="7.1166086"
        height="7.1166086"
-       x="91.490532"
-       y="69.916962" />
+       x="79.030388"
+       y="54.687901" />
     <rect
        transform="rotate(45)"
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 0.5;stroke-dashoffset:0;paint-order:markers fill stroke"
        id="rect882-1"
        width="7.1166086"
        height="7.1166086"
-       x="98.60714"
-       y="77.033562" />
+       x="86.146996"
+       y="61.804501" />
     <path
-       inkscape:original-d="m 157.52126,65.062494 -29.1054,-29.1054"
+       inkscape:original-d="M 148.3435,36.550251 119.2381,7.4448506"
        inkscape:path-effect="#path-effect945"
        id="path943"
-       d="m 157.52126,65.062494 c 0,0 -29.1054,-29.1054 -29.1054,-29.1054"
+       d="m 148.3435,36.550251 c 0,0 -29.1054,-29.1054004 -29.1054,-29.1054004"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        id="text1017"
@@ -808,7 +808,7 @@
        id="rect882-3-8-9-2"
        style="fill:none;stroke:#000000;stroke-width:0.219914;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.31948, 0.219914;stroke-dashoffset:0;paint-order:markers fill stroke" />
     <g
-       transform="rotate(-90,85.749591,28.711823)"
+       transform="rotate(-90,66.904589,19.044582)"
        id="g1665">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.175082;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
@@ -970,39 +970,39 @@
     </g>
     <text
        id="text1471"
-       y="120.43262"
-       x="71.644676"
+       y="90.451935"
+       x="72.74601"
        style="font-size:4.544px;line-height:1.25;font-family:sans-serif;stroke-width:0.142"
        xml:space="preserve"><tspan
          style="stroke-width:0.142"
-         y="120.43262"
-         x="71.644676"
+         y="90.451935"
+         x="72.74601"
          id="tspan1469"
          sodipodi:role="line" /><tspan
          id="tspan1628"
          style="stroke-width:0.142"
-         y="126.13785"
-         x="71.644676"
+         y="96.157158"
+         x="72.74601"
          sodipodi:role="line">HalfLife:Rectangle.Side.Half△λThrid</tspan><tspan
          id="tspan1473"
          style="stroke-width:0.142"
-         y="131.81784"
-         x="71.644676"
+         y="101.83716"
+         x="72.74601"
          sodipodi:role="line">2-4.SideKolor.RectangleEach.BorderCount/3</tspan><tspan
          id="tspan1630"
          style="stroke-width:0.142"
-         y="137.49785"
-         x="71.644676"
+         y="107.51717"
+         x="72.74601"
          sodipodi:role="line">Inside.Diamond:Rotate|Lonic|Fusion</tspan><tspan
          id="tspan1632"
          style="stroke-width:0.142"
-         y="143.17784"
-         x="71.644676"
+         y="113.19716"
+         x="72.74601"
          sodipodi:role="line">Outside.Half&amp;Triangle</tspan><tspan
          id="tspan1636"
          style="stroke-width:0.142"
-         y="148.85785"
-         x="71.644676"
+         y="118.87717"
+         x="72.74601"
          sodipodi:role="line">Accuracy:In-Out-KolorStand:Leon.Mfs.M.ReachAgreement</tspan></text>
     <path
        inkscape:transform-center-y="-5.6223838"
@@ -1025,8 +1025,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-69.297089"
-       x="263.76428"
+       y="-11.660751"
+       x="262.05109"
        height="4.2816615"
        width="4.281662"
        id="rect2137-5-3-5"
@@ -1034,7 +1034,7 @@
        transform="rotate(90)" />
     <g
        id="g1694"
-       transform="translate(57.814914,-52.104799)">
+       transform="translate(81.309981,-77.924899)">
       <rect
          ry="0"
          rx="0"
@@ -1254,20 +1254,20 @@
     </g>
     <text
        id="text1640"
-       y="108.84213"
-       x="10.571793"
+       y="82.654922"
+       x="4.6980257"
        style="font-size:4.9561px;line-height:1.25;font-family:sans-serif;stroke-width:0.154878"
        xml:space="preserve"><tspan
          style="stroke-width:0.154878"
-         y="108.84213"
-         x="10.571793"
+         y="82.654922"
+         x="4.6980257"
          id="tspan1638"
          sodipodi:role="line">Diamond:Count.Solid2.Angle.VisionOffset</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="-73.578743"
-       x="263.76428"
+       y="-15.942406"
+       x="262.05109"
        height="4.2816615"
        width="4.281662"
        id="rect584"
@@ -1276,8 +1276,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-69.297089"
-       x="268.04596"
+       y="-11.660751"
+       x="266.33276"
        height="4.2816615"
        width="4.281662"
        id="rect586"
@@ -1286,8 +1286,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-73.578743"
-       x="268.04596"
+       y="-15.942406"
+       x="266.33276"
        height="4.2816615"
        width="4.281662"
        id="rect588"
@@ -1296,8 +1296,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-77.860405"
-       x="268.04596"
+       y="-20.224068"
+       x="266.33276"
        height="4.2816615"
        width="4.281662"
        id="rect590"
@@ -1306,8 +1306,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-82.142075"
-       x="268.04596"
+       y="-24.505737"
+       x="266.33276"
        height="4.2816615"
        width="4.281662"
        id="rect592"
@@ -1316,8 +1316,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-90.733475"
-       x="259.45456"
+       y="-33.097137"
+       x="257.74136"
        height="12.844033"
        width="12.844033"
        id="rect594"
@@ -1326,8 +1326,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-86.423714"
-       x="268.04596"
+       y="-28.787376"
+       x="266.33276"
        height="4.2816615"
        width="4.281662"
        id="rect596"
@@ -1336,8 +1336,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-90.705383"
-       x="268.04596"
+       y="-33.069046"
+       x="266.33276"
        height="4.2816615"
        width="4.281662"
        id="rect598"
@@ -1346,8 +1346,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-103.11443"
-       x="259.4686"
+       y="-45.478096"
+       x="257.7554"
        height="25.210941"
        width="12.815943"
        id="rect600"
@@ -1356,8 +1356,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-108.41618"
-       x="273.61417"
+       y="-50.779846"
+       x="271.90097"
        height="30.587969"
        width="19.365629"
        id="rect602"
@@ -1366,8 +1366,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-84.298035"
-       x="273.61417"
+       y="-26.661697"
+       x="271.90097"
        height="6.4698381"
        width="6.4698386"
        id="rect596-0"
@@ -1376,8 +1376,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-90.767868"
-       x="273.61417"
+       y="-33.131531"
+       x="271.90097"
        height="6.4698381"
        width="6.4698386"
        id="rect1520"
@@ -1386,8 +1386,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-103.70757"
-       x="273.61417"
+       y="-46.071236"
+       x="271.90097"
        height="6.4698381"
        width="6.4698386"
        id="rect1522"
@@ -1396,8 +1396,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-97.237717"
-       x="273.61417"
+       y="-39.601379"
+       x="271.90097"
        height="6.4698381"
        width="6.4698386"
        id="rect1524"
@@ -1406,119 +1406,119 @@
     <text
        xml:space="preserve"
        style="font-size:3.70374px;line-height:1.25;font-family:sans-serif;stroke-width:0.198414"
-       x="7.3610387"
-       y="187.68327"
+       x="6.7491879"
+       y="136.04308"
        id="text1528"><tspan
          sodipodi:role="line"
          id="tspan1526"
-         x="7.3610387"
-         y="187.68327"
+         x="6.7491879"
+         y="136.04308"
          style="stroke-width:0.198414">面钫和体积 测量与面基 Areakute Andoline</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="192.40623"
+         x="6.7491879"
+         y="140.76604"
          style="stroke-width:0.198414"
          id="tspan1648">单//sin san</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="197.12918"
+         x="6.7491879"
+         y="145.48898"
          style="stroke-width:0.198414"
          id="tspan1650">多//odd</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="201.85214"
+         x="6.7491879"
+         y="150.21194"
          style="stroke-width:0.198414"
          id="tspan1652">面切配合连点</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="206.57509"
+         x="6.7491879"
+         y="154.93489"
          style="stroke-width:0.198414"
          id="tspan1654">正方量对比边长乘 </tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="211.29805"
+         x="6.7491879"
+         y="159.65785"
          style="stroke-width:0.198414"
          id="tspan1546">Frant.Accuercy.AreaKute.Count:4</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="215.92772"
+         x="6.7491879"
+         y="164.28752"
          style="stroke-width:0.198414"
          id="tspan1580">  Directive.Moveout</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="220.5574"
+         x="6.7491879"
+         y="168.91721"
          style="stroke-width:0.198414"
          id="tspan1584">   Axis.Rotate</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="225.18707"
+         x="6.7491879"
+         y="173.54688"
          style="stroke-width:0.198414"
          id="tspan1576">Leonic.Intelligent.ReachedAgreement:</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="229.81676"
+         x="6.7491879"
+         y="178.17656"
          style="stroke-width:0.198414"
          id="tspan1586">  San:Frant.Franket</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="234.44643"
+         x="6.7491879"
+         y="182.80623"
          style="stroke-width:0.198414"
          id="tspan1550">  Odd:LeftSide.MoveTo.RightSide.Doubled</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="239.0761"
+         x="6.7491879"
+         y="187.4359"
          style="stroke-width:0.198414"
          id="tspan1552">    Apisoda.Rectand</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="243.70578"
+         x="6.7491879"
+         y="192.06558"
          style="stroke-width:0.198414"
          id="tspan1554"> Utilized.Rectand.FrantCount2.Measure.Rectangle</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="248.33545"
+         x="6.7491879"
+         y="196.69525"
          style="stroke-width:0.198414"
          id="tspan1592">Shrinp.Andoline.Tricon.ReachSide</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="252.96512"
+         x="6.7491879"
+         y="201.32492"
          style="stroke-width:0.198414"
          id="tspan1594">Renliy.BodyPart</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="257.59479"
+         x="6.7491879"
+         y="205.95459"
          style="stroke-width:0.198414"
          id="tspan1596">  EyeVision.FitinLeast&amp;Evaluate.Utilize.FrantCount</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="262.22449"
+         x="6.7491879"
+         y="210.58429"
          style="stroke-width:0.198414"
          id="tspan1598">  Handicap.Blind.HandTouch</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="266.85416"
+         x="6.7491879"
+         y="215.21396"
          style="stroke-width:0.198414"
          id="tspan1600">  Handicap.Feet.Utilize</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="271.48383"
+         x="6.7491879"
+         y="219.84363"
          style="stroke-width:0.198414"
          id="tspan1606">Reached.?WaterRoune</tspan><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="276.11349"
+         x="6.7491879"
+         y="224.4733"
          style="stroke-width:0.198414"
          id="tspan1538" /><tspan
          sodipodi:role="line"
-         x="7.3610387"
-         y="280.74316"
+         x="6.7491879"
+         y="229.10297"
          style="stroke-width:0.198414"
          id="tspan1542" /></text>
     <rect
        ry="0"
        rx="0"
-       y="-69.577415"
-       x="243.16159"
+       y="-11.941078"
+       x="241.44841"
        height="5.1804738"
        width="5.1804743"
        id="rect1556"
@@ -1527,8 +1527,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-74.757874"
-       x="243.16159"
+       y="-17.121536"
+       x="241.44841"
        height="5.1804738"
        width="5.1804743"
        id="rect1558"
@@ -1537,8 +1537,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-69.577415"
-       x="248.34207"
+       y="-11.941078"
+       x="246.62889"
        height="5.1804738"
        width="5.1804743"
        id="rect1560"
@@ -1547,8 +1547,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-74.757874"
-       x="248.34207"
+       y="-17.121536"
+       x="246.62889"
        height="5.1804738"
        width="5.1804743"
        id="rect1562"
@@ -1557,8 +1557,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-84.205307"
-       x="245.86597"
+       y="-26.56897"
+       x="244.15279"
        height="5.1804738"
        width="5.1804743"
        id="rect1564"
@@ -1567,8 +1567,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-89.385773"
-       x="245.86597"
+       y="-31.749435"
+       x="244.15279"
        height="5.1804738"
        width="5.1804743"
        id="rect1566"
@@ -1577,8 +1577,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-248.63283"
-       x="-97.40918"
+       y="-246.91965"
+       x="-39.772842"
        height="5.1804738"
        width="5.1804743"
        id="rect1568"
@@ -1587,8 +1587,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-253.81329"
-       x="-97.40918"
+       y="-252.10011"
+       x="-39.772842"
        height="5.1804738"
        width="5.1804743"
        id="rect1570"
@@ -1597,8 +1597,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-251.8204"
-       x="97.98629"
+       y="-209.85396"
+       x="137.52994"
        height="5.1804738"
        width="5.1804743"
        id="rect1572"
@@ -1607,8 +1607,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-257.00089"
-       x="97.98629"
+       y="-215.03444"
+       x="137.52994"
        height="5.1804738"
        width="5.1804743"
        id="rect1574"
@@ -1617,8 +1617,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-108.41954"
-       x="273.61081"
+       y="-50.783203"
+       x="271.89761"
        height="2.3591604"
        width="2.3591604"
        id="rect1602"
@@ -1627,8 +1627,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-106.06673"
-       x="273.61417"
+       y="-48.430389"
+       x="271.90097"
        height="2.3591604"
        width="2.3591604"
        id="rect1604"
@@ -1637,8 +1637,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-108.41618"
-       x="290.62067"
+       y="-50.779846"
+       x="288.90747"
        height="2.3591604"
        width="2.3591604"
        id="rect1608"
@@ -1647,8 +1647,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-106.06337"
-       x="290.62402"
+       y="-48.427032"
+       x="288.91083"
        height="2.3591604"
        width="2.3591604"
        id="rect1610"
@@ -1657,8 +1657,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-103.70421"
-       x="290.62402"
+       y="-46.067871"
+       x="288.91083"
        height="2.3591604"
        width="2.3591604"
        id="rect1612"
@@ -1667,8 +1667,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-101.35139"
-       x="290.62738"
+       y="-43.71505"
+       x="288.91418"
        height="2.3591604"
        width="2.3591604"
        id="rect1614"
@@ -1677,8 +1677,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-98.992233"
-       x="290.62738"
+       y="-41.355896"
+       x="288.91418"
        height="2.3591604"
        width="2.3591604"
        id="rect1616"
@@ -1687,8 +1687,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-96.63942"
-       x="290.63074"
+       y="-39.003082"
+       x="288.91754"
        height="2.3591604"
        width="2.3591604"
        id="rect1618"
@@ -1697,8 +1697,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-94.280258"
-       x="290.63074"
+       y="-36.643921"
+       x="288.91754"
        height="2.3591604"
        width="2.3591604"
        id="rect1620"
@@ -1707,8 +1707,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-91.927444"
-       x="290.63409"
+       y="-34.291107"
+       x="288.9209"
        height="2.3591604"
        width="2.3591604"
        id="rect1622"
@@ -1717,8 +1717,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-89.568283"
-       x="290.63409"
+       y="-31.931946"
+       x="288.9209"
        height="2.3591604"
        width="2.3591604"
        id="rect1624"
@@ -1727,8 +1727,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-87.215469"
-       x="290.63745"
+       y="-29.579132"
+       x="288.92426"
        height="2.3591604"
        width="2.3591604"
        id="rect1626"
@@ -1737,8 +1737,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-84.8563"
-       x="290.63745"
+       y="-27.219963"
+       x="288.92426"
        height="2.3591604"
        width="2.3591604"
        id="rect1628"
@@ -1747,8 +1747,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-82.503487"
-       x="290.64081"
+       y="-24.867149"
+       x="288.92761"
        height="2.3591604"
        width="2.3591604"
        id="rect1630"
@@ -1757,8 +1757,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-80.144325"
-       x="290.64081"
+       y="-22.507988"
+       x="288.92761"
        height="2.3591604"
        width="2.3591604"
        id="rect1632"
@@ -1767,19 +1767,19 @@
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="10.593798"
-       y="285.22717"
+       x="7.289804"
+       y="235.78964"
        id="text1636"><tspan
          sodipodi:role="line"
          id="tspan1634"
-         x="10.593798"
-         y="285.22717"
+         x="7.289804"
+         y="235.78964"
          style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">眼看连点只能评估</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="-149.44292"
-       x="257.43671"
+       y="-171.10243"
+       x="198.4543"
        height="6.4698381"
        width="6.4698386"
        id="rect1522-7"
@@ -1788,8 +1788,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-155.91275"
-       x="257.43671"
+       y="-177.57227"
+       x="198.4543"
        height="6.4698381"
        width="6.4698386"
        id="rect1522-6"
@@ -1830,202 +1830,202 @@
     <text
        xml:space="preserve"
        style="font-size:2.52922px;line-height:1.25;font-family:sans-serif;stroke-width:0.189691"
-       x="129.69713"
-       y="195.06369"
+       x="114.52323"
+       y="176.34105"
        id="text1531"><tspan
          sodipodi:role="line"
          id="tspan1529"
-         x="129.69713"
-         y="195.06369"
+         x="114.52323"
+         y="176.34105"
          style="stroke-width:0.189691">最精确正方形面积</tspan><tspan
          sodipodi:role="line"
-         x="129.69713"
-         y="198.28891"
+         x="114.52323"
+         y="179.56627"
          style="stroke-width:0.189691"
          id="tspan1611"> 先画一个然后复制 </tspan><tspan
          sodipodi:role="line"
-         x="129.69713"
-         y="201.51414"
+         x="114.52323"
+         y="182.7915"
          style="stroke-width:0.189691"
          id="tspan1613">左右 下 左右 或 上 左右 边贴</tspan><tspan
          sodipodi:role="line"
-         x="129.69713"
-         y="204.73936"
+         x="114.52323"
+         y="186.01672"
          style="stroke-width:0.189691"
          id="tspan1617">瑞博尔 别干扰其他</tspan><tspan
          sodipodi:role="line"
-         x="129.69713"
-         y="207.96458"
+         x="114.52323"
+         y="189.24194"
          style="stroke-width:0.189691"
          id="tspan1609">正方形：边长 为个 2 *2 =4个</tspan><tspan
          sodipodi:role="line"
-         x="129.69713"
-         y="211.18982"
+         x="114.52323"
+         y="192.46718"
          style="stroke-width:0.189691"
          id="tspan1637">中间的面 每一个是1吗？</tspan><tspan
          sodipodi:role="line"
-         x="129.69713"
-         y="214.41504"
+         x="114.52323"
+         y="195.6924"
          style="stroke-width:0.189691"
          id="tspan1559">  为面积应该不准确</tspan><tspan
          sodipodi:role="line"
-         x="129.69713"
-         y="217.64026"
+         x="114.52323"
+         y="198.91762"
          style="stroke-width:0.189691"
          id="tspan1639">  按照钫得中心 四个为一组</tspan><tspan
          sodipodi:role="line"
-         x="129.69713"
-         y="220.86549"
+         x="114.52323"
+         y="202.14285"
          style="stroke-width:0.189691"
          id="tspan1561">钫得：维克里</tspan><tspan
          sodipodi:role="line"
-         x="129.69713"
-         y="224.09071"
+         x="114.52323"
+         y="205.36807"
          style="stroke-width:0.189691"
          id="tspan1567">锂面：视觉区分 外边 铯中 内边</tspan><tspan
          sodipodi:role="line"
-         x="129.69713"
-         y="227.31593"
+         x="114.52323"
+         y="208.59329"
          style="stroke-width:0.189691"
          id="tspan1563">全  边铯 全为 1 </tspan></text>
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 142.97309,257.43673 h 6.46983"
+       d="m 164.63261,198.45432 h 6.46983"
        id="path1535" />
     <text
        xml:space="preserve"
        style="font-size:2.83177px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.151701"
-       x="144.87695"
-       y="256.88522"
+       x="166.53647"
+       y="197.90282"
        id="text1539"><tspan
          sodipodi:role="line"
          id="tspan1537"
-         x="144.87695"
-         y="256.88522"
+         x="166.53647"
+         y="197.90282"
          style="fill:#ff0000;stroke-width:0.151701">1</tspan></text>
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 142.97309,257.43672 v 6.46983"
+       d="m 164.63261,198.45431 v 6.46983"
        id="path1541" />
     <text
        xml:space="preserve"
        style="font-size:2.83177px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.151701"
-       x="140.52277"
-       y="261.71271"
+       x="162.18228"
+       y="202.7303"
        id="text1545"><tspan
          sodipodi:role="line"
          id="tspan1543"
-         x="140.52277"
-         y="261.71271"
+         x="162.18228"
+         y="202.7303"
          style="fill:#ff0000;stroke-width:0.151701">1</tspan></text>
     <path
        style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 142.97309,263.90655 h 6.46983"
+       d="m 164.63261,204.92414 h 6.46983"
        id="path1547" />
     <text
        xml:space="preserve"
        style="font-size:2.77099px;line-height:1.25;font-family:sans-serif;fill:#00ff00;stroke-width:0.148445"
-       x="-130.9969"
-       y="298.70242"
+       x="-149.97281"
+       y="231.3786"
        id="text1555"
        transform="scale(-1.1414219,0.87610023)"><tspan
          sodipodi:role="line"
          id="tspan1553"
-         x="-130.9969"
-         y="298.70242"
+         x="-149.97281"
+         y="231.3786"
          style="fill:#00ff00;stroke-width:0.148445">1</tspan></text>
     <path
        style="fill:#f9f9f9;stroke:#a02c2c;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 149.44292,257.43673 v 6.46983"
+       d="m 171.10244,198.45432 v 6.46983"
        id="path1557" />
     <text
        xml:space="preserve"
        style="font-size:2.83177px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.151701"
-       x="157.10321"
-       y="261.43661"
+       x="178.76273"
+       y="202.45421"
        id="text1575"><tspan
          sodipodi:role="line"
          id="tspan1573"
-         x="157.10321"
-         y="261.43661"
+         x="178.76273"
+         y="202.45421"
          style="fill:#808000;stroke-width:0.151701">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.73366px;line-height:1.25;font-family:sans-serif;stroke-width:0.146446"
-       x="131.95125"
-       y="231.15172"
+       x="158.0963"
+       y="171.53926"
        id="text1579"
-       transform="scale(0.97821022,1.0222751)"><tspan
+       transform="scale(0.97821024,1.0222751)"><tspan
          sodipodi:role="line"
          id="tspan1577"
-         x="131.95125"
-         y="231.15172"
+         x="158.0963"
+         y="171.53926"
          style="stroke-width:0.146446">边长为：2</tspan><tspan
          sodipodi:role="line"
-         x="131.95125"
-         y="234.63763"
+         x="158.0963"
+         y="175.02518"
          style="stroke-width:0.146446"
          id="tspan1703">周长 是 边2 * 4 = 8</tspan><tspan
          sodipodi:role="line"
-         x="131.95125"
-         y="238.12357"
+         x="158.0963"
+         y="178.51111"
          style="stroke-width:0.146446"
          id="tspan1707">面积 不适 边长2 * 边长2 4平方 4*4 16 </tspan><tspan
          sodipodi:role="line"
-         x="131.95125"
-         y="241.60948"
+         x="158.0963"
+         y="181.99702"
          style="stroke-width:0.146446"
          id="tspan1709">  4 个 小正方形 但面积  </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.83177px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.151701"
-       x="157.28169"
-       y="268.39755"
+       x="178.94121"
+       y="209.41515"
        id="text1583"><tspan
          sodipodi:role="line"
          id="tspan1581"
-         x="157.28169"
-         y="268.39755"
+         x="178.94121"
+         y="209.41515"
          style="fill:#808000;stroke-width:0.151701">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.83177px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.151701"
-       x="151.57016"
-       y="256.70673"
+       x="173.22968"
+       y="197.72432"
        id="text1587"><tspan
          sodipodi:role="line"
          id="tspan1585"
-         x="151.57016"
-         y="256.70673"
+         x="173.22968"
+         y="197.72432"
          style="fill:#808000;stroke-width:0.151701">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.83177px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.151701"
-       x="140.50404"
-       y="268.30832"
+       x="162.16356"
+       y="209.32591"
        id="text1591"><tspan
          sodipodi:role="line"
          id="tspan1589"
-         x="140.50404"
-         y="268.30832"
+         x="162.16356"
+         y="209.32591"
          style="fill:#808000;stroke-width:0.151701">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.54414px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.136293"
-       x="-144.07124"
-       y="273.65308"
+       x="-164.73911"
+       y="211.84068"
        id="text1603"
        transform="scale(-1.0479802,0.95421651)"><tspan
          sodipodi:role="line"
          id="tspan1601"
-         x="-144.07124"
-         y="273.65308"
+         x="-164.73911"
+         y="211.84068"
          style="fill:#0000ff;stroke-width:0.136293">1</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="-155.91275"
-       x="263.90656"
+       y="-177.57227"
+       x="204.92415"
        height="6.4698381"
        width="6.4698386"
        id="rect1605"
@@ -2034,8 +2034,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-149.44292"
-       x="263.90656"
+       y="-171.10243"
+       x="204.92415"
        height="6.4698381"
        width="6.4698386"
        id="rect1607"
@@ -2044,44 +2044,44 @@
     <text
        xml:space="preserve"
        style="font-size:1.92566px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.10316"
-       x="-138.58376"
-       y="272.11966"
+       x="-159.3965"
+       y="210.73753"
        id="text1627"
        transform="scale(-1.0406853,0.96090528)"><tspan
          sodipodi:role="line"
          id="tspan1625"
-         x="-138.58376"
-         y="272.11966"
+         x="-159.3965"
+         y="210.73753"
          style="fill:#ff0000;stroke-width:0.10316">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.42767px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.130053"
-       x="-152.85818"
-       y="259.741"
+       x="-174.5177"
+       y="200.75859"
        id="text1631"
        transform="scale(-1,1)"><tspan
          sodipodi:role="line"
          id="tspan1629"
-         x="-152.85818"
-         y="259.741"
+         x="-174.5177"
+         y="200.75859"
          style="fill:#808000;stroke-width:0.130053">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.42767px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.130053"
-       x="-155.58009"
-       y="261.88281"
+       x="-177.23961"
+       y="202.90041"
        id="text1635"
        transform="scale(-1,1)"><tspan
          sodipodi:role="line"
          id="tspan1633"
-         x="-155.58009"
-         y="261.88281"
+         x="-177.23961"
+         y="202.90041"
          style="fill:#808000;stroke-width:0.130053">1</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="-166.59854"
-       x="245.12366"
+       y="-243.8141"
+       x="212.81793"
        height="3.215873"
        width="3.1936498"
        id="rect1657"
@@ -2090,8 +2090,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-169.86536"
-       x="245.13663"
+       y="-247.08092"
+       x="212.8309"
        height="3.2250786"
        width="3.1935267"
        id="rect1659"
@@ -2100,8 +2100,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-166.59854"
-       x="248.31717"
+       y="-243.8141"
+       x="216.01144"
        height="3.215873"
        width="3.1936498"
        id="rect1661"
@@ -2110,8 +2110,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-169.86536"
-       x="248.33014"
+       y="-247.08092"
+       x="216.02441"
        height="3.2250786"
        width="3.1935267"
        id="rect1663"
@@ -2119,7 +2119,7 @@
        transform="rotate(90)" />
     <g
        id="g1669"
-       transform="translate(-13.808011,2.9203016)">
+       transform="translate(7.8515043,-56.062107)">
       <rect
          ry="0"
          rx="0"
@@ -2164,42 +2164,42 @@
     <text
        xml:space="preserve"
        style="font-size:1.9875px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.106473"
-       x="135.48579"
-       y="278.13565"
+       x="155.65092"
+       y="214.78221"
        id="text1623"
-       transform="scale(1.0741073,0.93100567)"><tspan
+       transform="scale(1.0741073,0.93100568)"><tspan
          sodipodi:role="line"
          id="tspan1621"
-         x="135.48579"
-         y="278.13565"
+         x="155.65092"
+         y="214.78221"
          style="fill:#ff0000;stroke-width:0.106473">1</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.83177px;line-height:1.25;font-family:sans-serif;fill:#c87137;stroke-width:0.151701;"
-       x="145.86882"
-       y="273.1972"
+       style="font-size:2.83177px;line-height:1.25;font-family:sans-serif;fill:#c87137;stroke-width:0.151701"
+       x="167.52834"
+       y="214.2148"
        id="text1697"><tspan
          sodipodi:role="line"
          id="tspan1695"
-         x="145.86882"
-         y="273.1972"
-         style="fill:#c87137;stroke-width:0.151701;">1</tspan></text>
+         x="167.52834"
+         y="214.2148"
+         style="fill:#c87137;stroke-width:0.151701">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.83177px;line-height:1.25;font-family:sans-serif;fill:#c87137;stroke-width:0.151701"
-       x="152.55316"
-       y="273.15393"
+       x="174.21268"
+       y="214.17152"
        id="text1701"><tspan
          sodipodi:role="line"
          id="tspan1699"
-         x="152.55316"
-         y="273.15393"
+         x="174.21268"
+         y="214.17152"
          style="fill:#c87137;stroke-width:0.151701">1</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="-173.09044"
-       x="248.33015"
+       y="-250.306"
+       x="216.02443"
        height="3.2250786"
        width="3.1935267"
        id="rect1711"
@@ -2208,8 +2208,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-173.09044"
-       x="245.13663"
+       y="-250.306"
+       x="212.8309"
        height="3.2250786"
        width="3.1935267"
        id="rect1713"
@@ -2218,8 +2218,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-166.55681"
-       x="251.49785"
+       y="-243.77237"
+       x="219.19212"
        height="3.215873"
        width="3.1936498"
        id="rect1715"
@@ -2228,8 +2228,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-169.82362"
-       x="251.51082"
+       y="-247.03918"
+       x="219.20509"
        height="3.2250786"
        width="3.1935267"
        id="rect1717"
@@ -2238,8 +2238,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-173.04871"
-       x="251.51082"
+       y="-250.26427"
+       x="219.20509"
        height="3.2250786"
        width="3.1935267"
        id="rect1719"
@@ -2248,8 +2248,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-168.15218"
-       x="266.36783"
+       y="-111.56461"
+       x="221.75403"
        height="3.2250786"
        width="3.1935267"
        id="rect1721"
@@ -2258,42 +2258,42 @@
     <text
        xml:space="preserve"
        style="font-size:1.36115px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.072918"
-       x="167.24522"
-       y="265.0687"
+       x="242.2338"
+       y="231.80357"
        id="text1587-0"
        transform="scale(1.0296978,0.97115873)"><tspan
          sodipodi:role="line"
          id="tspan1585-3"
-         x="167.24522"
-         y="265.0687"
+         x="242.2338"
+         y="231.80357"
          style="fill:#808000;stroke-width:0.072918">0.5</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.83177px;line-height:1.25;font-family:sans-serif;fill:#f2f2f2;stroke-width:0.151701"
-       x="165.70135"
-       y="269.01224"
+       x="109.11379"
+       y="224.39844"
        id="text1743"><tspan
          sodipodi:role="line"
          id="tspan1741"
-         x="165.70135"
-         y="269.01224"
+         x="109.11379"
+         y="224.39844"
          style="fill:#f2f2f2;stroke-width:0.151701">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.62789px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.0872079"
-       x="170.39525"
-       y="257.98947"
+       x="247.61081"
+       y="225.68375"
        id="text1747"><tspan
          sodipodi:role="line"
          id="tspan1745"
-         x="170.39525"
-         y="257.98947"
+         x="247.61081"
+         y="225.68375"
          style="fill:#808000;stroke-width:0.0872079">1</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="-174.10999"
-       x="267.25266"
+       y="-117.52242"
+       x="222.63885"
        height="1.3598607"
        width="1.3478279"
        id="rect1751"
@@ -2302,8 +2302,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-167.35985"
-       x="271.41135"
+       y="-110.77229"
+       x="226.79755"
        height="2.4860637"
        width="2.4688838"
        id="rect1661-1"
@@ -2312,8 +2312,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-171.50484"
-       x="271.21405"
+       y="-114.91728"
+       x="226.60025"
        height="2.4860637"
        width="2.4688838"
        id="rect1661-1-9"
@@ -2322,8 +2322,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-173.99089"
-       x="271.21405"
+       y="-117.40333"
+       x="226.60025"
        height="2.4860637"
        width="2.4688838"
        id="rect1783"
@@ -2332,8 +2332,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-171.50484"
-       x="273.68295"
+       y="-114.91728"
+       x="229.06915"
        height="2.4860637"
        width="2.4688838"
        id="rect1785"
@@ -2342,8 +2342,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-173.99089"
-       x="273.68295"
+       y="-117.40333"
+       x="229.06915"
        height="2.4860637"
        width="2.4688838"
        id="rect1787"
@@ -2352,8 +2352,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-177.89264"
-       x="271.33722"
+       y="-121.30508"
+       x="226.72342"
        height="2.4860637"
        width="2.4688838"
        id="rect1657-4"
@@ -2362,8 +2362,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-180.41808"
-       x="271.34726"
+       y="-123.83051"
+       x="226.73346"
        height="2.4931803"
        width="2.4687886"
        id="rect1659-8"
@@ -2372,8 +2372,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-177.89264"
-       x="273.806"
+       y="-121.30508"
+       x="229.1922"
        height="2.4860637"
        width="2.4688838"
        id="rect1661-4"
@@ -2382,8 +2382,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-180.41808"
-       x="273.81604"
+       y="-123.83051"
+       x="229.20224"
        height="2.4931803"
        width="2.4687886"
        id="rect1663-5"
@@ -2392,8 +2392,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-182.91127"
-       x="273.81604"
+       y="-126.32371"
+       x="229.20224"
        height="2.4931803"
        width="2.4687886"
        id="rect1711-6"
@@ -2402,8 +2402,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-182.91127"
-       x="271.34726"
+       y="-126.32371"
+       x="226.73346"
        height="2.4931803"
        width="2.4687886"
        id="rect1713-3"
@@ -2412,8 +2412,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-177.86037"
-       x="276.26486"
+       y="-121.2728"
+       x="231.65106"
        height="2.4860637"
        width="2.4688838"
        id="rect1715-1"
@@ -2422,8 +2422,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-180.38582"
-       x="276.27487"
+       y="-123.79826"
+       x="231.66107"
        height="2.4931803"
        width="2.4687886"
        id="rect1717-7"
@@ -2432,8 +2432,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-182.879"
-       x="276.27487"
+       y="-126.29144"
+       x="231.66107"
        height="2.4931803"
        width="2.4687886"
        id="rect1719-9"
@@ -2442,8 +2442,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-187.20708"
-       x="271.37552"
+       y="-130.61952"
+       x="226.76172"
        height="2.4860637"
        width="2.4688838"
        id="rect1852"
@@ -2452,8 +2452,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-189.73251"
-       x="271.38556"
+       y="-133.14496"
+       x="226.77176"
        height="2.4931803"
        width="2.4687886"
        id="rect1854"
@@ -2462,8 +2462,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-187.20708"
-       x="273.8443"
+       y="-130.61952"
+       x="229.2305"
        height="2.4860637"
        width="2.4688838"
        id="rect1856"
@@ -2472,8 +2472,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-189.73251"
-       x="273.85431"
+       y="-133.14496"
+       x="229.24051"
        height="2.4931803"
        width="2.4687886"
        id="rect1858"
@@ -2482,8 +2482,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-192.22569"
-       x="273.85431"
+       y="-135.63814"
+       x="229.24051"
        height="2.4931803"
        width="2.4687886"
        id="rect1860"
@@ -2492,8 +2492,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-192.22569"
-       x="271.38556"
+       y="-135.63814"
+       x="226.77176"
        height="2.4931803"
        width="2.4687886"
        id="rect1862"
@@ -2502,8 +2502,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-187.1748"
-       x="276.30313"
+       y="-130.58725"
+       x="231.68933"
        height="2.4860637"
        width="2.4688838"
        id="rect1864"
@@ -2512,8 +2512,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-189.70026"
-       x="276.31317"
+       y="-133.1127"
+       x="231.69937"
        height="2.4931803"
        width="2.4687886"
        id="rect1866"
@@ -2522,8 +2522,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-192.19344"
-       x="276.31317"
+       y="-135.60588"
+       x="231.69937"
        height="2.4931803"
        width="2.4687886"
        id="rect1868"
@@ -2532,8 +2532,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-167.71631"
-       x="284.32095"
+       y="-110.42801"
+       x="245.50415"
        height="2.3401835"
        width="2.3240116"
        id="rect1870"
@@ -2542,8 +2542,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-170.09357"
-       x="284.33041"
+       y="-112.80527"
+       x="245.51361"
        height="2.3468823"
        width="2.3239222"
        id="rect1872"
@@ -2552,8 +2552,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-167.71631"
-       x="286.64487"
+       y="-110.42801"
+       x="247.82806"
        height="2.3401835"
        width="2.3240116"
        id="rect1874"
@@ -2562,8 +2562,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-170.09357"
-       x="286.65433"
+       y="-112.80527"
+       x="247.83752"
        height="2.3468823"
        width="2.3239222"
        id="rect1876"
@@ -2572,8 +2572,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-172.44044"
-       x="286.65433"
+       y="-115.15215"
+       x="247.83752"
        height="2.3468823"
        width="2.3239222"
        id="rect1878"
@@ -2582,8 +2582,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-172.44044"
-       x="284.33041"
+       y="-115.15215"
+       x="245.51361"
        height="2.3468823"
        width="2.3239222"
        id="rect1880"
@@ -2592,8 +2592,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-167.68594"
-       x="288.95944"
+       y="-110.39764"
+       x="250.14264"
        height="2.3401835"
        width="2.3240116"
        id="rect1882"
@@ -2602,8 +2602,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-170.06319"
-       x="288.96887"
+       y="-112.77488"
+       x="250.15207"
        height="2.3468823"
        width="2.3239222"
        id="rect1884"
@@ -2612,8 +2612,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-172.41008"
-       x="288.96887"
+       y="-115.12178"
+       x="250.15207"
        height="2.3468823"
        width="2.3239222"
        id="rect1886"
@@ -2622,8 +2622,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-174.78734"
-       x="284.33041"
+       y="-117.49904"
+       x="245.51361"
        height="2.3468823"
        width="2.3239222"
        id="rect1888"
@@ -2632,8 +2632,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-167.68594"
-       x="291.28336"
+       y="-110.39764"
+       x="252.46655"
        height="2.3401835"
        width="2.3240116"
        id="rect1890"
@@ -2642,8 +2642,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-170.06319"
-       x="291.29279"
+       y="-112.77488"
+       x="252.47598"
        height="2.3468823"
        width="2.3239222"
        id="rect1892"
@@ -2652,8 +2652,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-172.41008"
-       x="291.29279"
+       y="-115.12178"
+       x="252.47598"
        height="2.3468823"
        width="2.3239222"
        id="rect1894"
@@ -2662,8 +2662,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-174.75696"
-       x="291.29279"
+       y="-117.46866"
+       x="252.47598"
        height="2.3468823"
        width="2.3239222"
        id="rect1896"
@@ -2672,8 +2672,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-174.81099"
-       x="286.66367"
+       y="-117.52269"
+       x="247.84686"
        height="2.3401835"
        width="2.3240116"
        id="rect1898"
@@ -2682,8 +2682,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-174.78062"
-       x="288.97824"
+       y="-117.49232"
+       x="250.16144"
        height="2.3401835"
        width="2.3240116"
        id="rect1900"
@@ -2692,8 +2692,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-196.81195"
-       x="271.30371"
+       y="-140.2244"
+       x="226.68991"
        height="2.4860637"
        width="2.4688838"
        id="rect1902"
@@ -2702,8 +2702,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-199.33739"
-       x="271.31372"
+       y="-142.74983"
+       x="226.69992"
        height="2.4931803"
        width="2.4687886"
        id="rect1904"
@@ -2712,8 +2712,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-196.81195"
-       x="273.77249"
+       y="-140.2244"
+       x="229.15869"
        height="2.4860637"
        width="2.4688838"
        id="rect1906"
@@ -2722,8 +2722,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-199.33739"
-       x="273.7825"
+       y="-142.74983"
+       x="229.1687"
        height="2.4931803"
        width="2.4687886"
        id="rect1908"
@@ -2732,8 +2732,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-201.83057"
-       x="273.7825"
+       y="-145.24301"
+       x="229.1687"
        height="2.4931803"
        width="2.4687886"
        id="rect1910"
@@ -2742,8 +2742,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-201.83057"
-       x="271.31372"
+       y="-145.24301"
+       x="226.69992"
        height="2.4931803"
        width="2.4687886"
        id="rect1912"
@@ -2752,8 +2752,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-196.84421"
-       x="276.25131"
+       y="-140.25665"
+       x="231.63751"
        height="2.4860637"
        width="2.4688838"
        id="rect1914"
@@ -2762,8 +2762,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-199.36966"
-       x="276.26132"
+       y="-142.7821"
+       x="231.64752"
        height="2.4931803"
        width="2.4687886"
        id="rect1916"
@@ -2772,8 +2772,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-201.86284"
-       x="276.26132"
+       y="-145.27528"
+       x="231.64752"
        height="2.4931803"
        width="2.4687886"
        id="rect1918"
@@ -2782,8 +2782,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-204.32376"
-       x="271.31372"
+       y="-147.73621"
+       x="226.69992"
        height="2.4931803"
        width="2.4687886"
        id="rect1920"
@@ -2792,8 +2792,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-196.84421"
-       x="278.72009"
+       y="-140.25665"
+       x="234.10629"
        height="2.4860637"
        width="2.4688838"
        id="rect1922"
@@ -2802,8 +2802,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-199.36966"
-       x="278.7301"
+       y="-142.7821"
+       x="234.1163"
        height="2.4931803"
        width="2.4687886"
        id="rect1924"
@@ -2812,8 +2812,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-201.86284"
-       x="278.7301"
+       y="-145.27528"
+       x="234.1163"
        height="2.4931803"
        width="2.4687886"
        id="rect1926"
@@ -2822,8 +2822,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-204.35602"
-       x="278.7301"
+       y="-147.76846"
+       x="234.1163"
        height="2.4931803"
        width="2.4687886"
        id="rect1928"
@@ -2832,8 +2832,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-204.34889"
-       x="273.79245"
+       y="-147.76134"
+       x="229.17865"
        height="2.4860637"
        width="2.4688838"
        id="rect1930"
@@ -2842,8 +2842,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-204.38115"
-       x="276.27127"
+       y="-147.79359"
+       x="231.65747"
        height="2.4860637"
        width="2.4688838"
        id="rect1932"
@@ -2852,8 +2852,8 @@
     <rect
        ry="0"
        rx="0"
-       y="-173.6338"
-       x="285.42087"
+       y="-116.27793"
+       x="246.82928"
        height="6.9663768"
        width="6.9182353"
        id="rect1936"
@@ -2862,18 +2862,117 @@
     <text
        xml:space="preserve"
        style="font-size:1.45639px;line-height:1.25;font-family:sans-serif;stroke-width:0.109229"
-       x="156.66615"
-       y="282.77396"
+       x="108.00966"
+       y="241.79124"
        id="text1940"><tspan
          sodipodi:role="line"
          id="tspan1938"
-         x="156.66615"
-         y="282.77396"
+         x="108.00966"
+         y="241.79124"
          style="stroke-width:0.109229">表示正方形 田 用笔画中空比较多</tspan><tspan
          sodipodi:role="line"
-         x="156.66615"
-         y="284.63113"
+         x="108.00966"
+         y="243.64841"
          style="stroke-width:0.109229"
-         id="tspan1942">边大于4个 </tspan></text>
+         id="tspan1942">边大于4个边维 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.45779px;line-height:1.25;font-family:sans-serif;stroke-width:0.109335"
+       x="154.9584"
+       y="219.54425"
+       id="text356"><tspan
+         sodipodi:role="line"
+         id="tspan354"
+         x="154.9584"
+         y="219.54425"
+         style="stroke-width:0.109335">维克里</tspan><tspan
+         sodipodi:role="line"
+         x="154.9584"
+         y="221.4032"
+         style="stroke-width:0.109335"
+         id="tspan360">维克多</tspan><tspan
+         sodipodi:role="line"
+         x="154.9584"
+         y="223.26216"
+         style="stroke-width:0.109335"
+         id="tspan366"> 钫得</tspan><tspan
+         sodipodi:role="line"
+         x="154.9584"
+         y="225.12111"
+         style="stroke-width:0.109335"
+         id="tspan368"> 盖特</tspan><tspan
+         sodipodi:role="line"
+         x="154.9584"
+         y="226.98006"
+         style="stroke-width:0.109335"
+         id="tspan370"> 里克</tspan><tspan
+         sodipodi:role="line"
+         x="154.9584"
+         y="228.83902"
+         style="stroke-width:0.109335"
+         id="tspan372">钫得奈特</tspan><tspan
+         sodipodi:role="line"
+         x="154.9584"
+         y="230.69797"
+         style="stroke-width:0.109335"
+         id="tspan376">盖特奈特</tspan><tspan
+         sodipodi:role="line"
+         x="154.9584"
+         y="232.55692"
+         style="stroke-width:0.109335"
+         id="tspan378">盖特里克</tspan><tspan
+         sodipodi:role="line"
+         x="154.9584"
+         y="234.41588"
+         style="stroke-width:0.109335"
+         id="tspan374"> </tspan><tspan
+         sodipodi:role="line"
+         x="154.9584"
+         y="236.27483"
+         style="stroke-width:0.109335"
+         id="tspan362"></tspan><tspan
+         sodipodi:role="line"
+         x="154.9584"
+         y="238.09706"
+         style="stroke-width:0.109335"
+         id="tspan364">维里克</tspan><tspan
+         sodipodi:role="line"
+         x="154.9584"
+         y="239.95601"
+         style="stroke-width:0.109335"
+         id="tspan358" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.30281px;line-height:1.25;font-family:sans-serif;stroke-width:0.172711;fill:#333333;"
+       x="116.16224"
+       y="223.95384"
+       id="text382"><tspan
+         sodipodi:role="line"
+         id="tspan380"
+         x="116.16224"
+         y="223.95384"
+         style="stroke-width:0.172711;fill:#333333;">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="115.65322"
+       y="219.93256"
+       id="text386"><tspan
+         sodipodi:role="line"
+         id="tspan384"
+         x="115.65322"
+         y="219.93256"
+         style="stroke-width:0.264583">正方形</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="106.91447"
+       y="219.95509"
+       id="text390"><tspan
+         sodipodi:role="line"
+         id="tspan388"
+         x="106.91447"
+         y="219.95509"
+         style="stroke-width:0.264583">钫得</tspan></text>
   </g>
 </svg>
