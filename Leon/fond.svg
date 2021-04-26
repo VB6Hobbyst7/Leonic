@@ -255,16 +255,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.747493"
-     inkscape:cx="478.10541"
-     inkscape:cy="902.46195"
+     inkscape:zoom="1.4684366"
+     inkscape:cx="-148.89375"
+     inkscape:cy="276.25191"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="2769"
+     inkscape:window-width="2770"
      inkscape:window-height="1880"
-     inkscape:window-x="99"
+     inkscape:window-x="98"
      inkscape:window-y="-12"
      inkscape:window-maximized="1"
      showguides="false" />
@@ -2269,15 +2269,15 @@
          style="fill:#808000;stroke-width:0.072918">0.5</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.83177px;line-height:1.25;font-family:sans-serif;fill:#f2f2f2;stroke-width:0.151701"
-       x="109.11379"
-       y="224.39844"
+       style="font-size:1.55326px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.0832097"
+       x="96.040451"
+       y="219.68832"
        id="text1743"><tspan
          sodipodi:role="line"
          id="tspan1741"
-         x="109.11379"
-         y="224.39844"
-         style="fill:#f2f2f2;stroke-width:0.151701">1</tspan></text>
+         x="96.040451"
+         y="219.68832"
+         style="fill:#000000;stroke-width:0.0832097">Fond.Inside.FullFilled</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.62789px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.0872079"
@@ -2930,7 +2930,7 @@
          x="154.9584"
          y="236.27483"
          style="stroke-width:0.109335"
-         id="tspan362"></tspan><tspan
+         id="tspan362" /><tspan
          sodipodi:role="line"
          x="154.9584"
          y="238.09706"
@@ -2955,24 +2955,35 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="115.65322"
-       y="219.93256"
+       x="114.61719"
+       y="214.84247"
        id="text386"><tspan
          sodipodi:role="line"
          id="tspan384"
-         x="115.65322"
-         y="219.93256"
+         x="114.61719"
+         y="214.84247"
          style="stroke-width:0.264583">正方形</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="106.91447"
-       y="219.95509"
+       x="105.87843"
+       y="214.86501"
        id="text390"><tspan
          sodipodi:role="line"
          id="tspan388"
-         x="106.91447"
-         y="219.95509"
+         x="105.87843"
+         y="214.86501"
          style="stroke-width:0.264583">钫得</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.55326px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.0832097"
+       x="115.2747"
+       y="219.59824"
+       id="text416"><tspan
+         sodipodi:role="line"
+         id="tspan414"
+         x="115.2747"
+         y="219.59824"
+         style="fill:#000000;stroke-width:0.0832097">HumanDefined.RectSquare.CenterHollow</tspan></text>
   </g>
 </svg>
