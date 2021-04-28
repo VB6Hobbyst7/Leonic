@@ -732,9 +732,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="218.36526"
-     inkscape:cx="398.86037"
-     inkscape:zoom="2.8614198"
+     inkscape:cy="345.94496"
+     inkscape:cx="511.69972"
+     inkscape:zoom="5.7228396"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1654,6 +1654,21 @@
          x="9.7573919"
          y="144.25955"
          style="stroke-width:0.18726">Earthly.WrapperNote</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#550000;stroke-width:0.1"
+       id="rect1025"
+       width="1.4332191"
+       height="1.4332191"
+       x="39.898972"
+       y="50.624996" />
+    <rect
+       style="fill:#ececec;stroke:#550000;stroke-width:0.142712"
+       id="rect1027"
+       width="1.3905071"
+       height="3.0086577"
+       x="-3.3923085"
+       y="58.89336"
+       transform="rotate(-45)" />
   </g>
   <script
      id="mesh_polyfill"
