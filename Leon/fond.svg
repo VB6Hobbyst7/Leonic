@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4307099"
-     inkscape:cx="240.28379"
-     inkscape:cy="442.81548"
+     inkscape:zoom="4.0466586"
+     inkscape:cx="622.60204"
+     inkscape:cy="167.7495"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -225,33 +225,33 @@
     <text
        xml:space="preserve"
        style="font-size:2.73365px;line-height:1.25;font-family:sans-serif;stroke-width:0.146446"
-       x="155.27316"
-       y="17.401506"
+       x="171.91621"
+       y="16.82588"
        id="text1579"
        transform="scale(0.97821026,1.0222751)"><tspan
          sodipodi:role="line"
          id="tspan1577"
-         x="155.27316"
-         y="17.401506"
+         x="171.91621"
+         y="16.82588"
          style="stroke-width:0.146446">边长定义为：2 与左边面积痛痒像瞪</tspan><tspan
          sodipodi:role="line"
-         x="155.27316"
-         y="20.887417"
+         x="171.91621"
+         y="20.31179"
          style="stroke-width:0.146446"
          id="tspan1703">周长 是 边2 * 4 = 8</tspan><tspan
          sodipodi:role="line"
-         x="155.27316"
-         y="24.373327"
+         x="171.91621"
+         y="23.797701"
          style="stroke-width:0.146446"
          id="tspan1707">面积 不适 边长2 * 边长2 = 4屏房 </tspan><tspan
          sodipodi:role="line"
-         x="155.27316"
-         y="27.85924"
+         x="171.91621"
+         y="27.283613"
          style="stroke-width:0.146446"
          id="tspan346">  4屏房 4*4 = 16 </tspan><tspan
          sodipodi:role="line"
-         x="155.27316"
-         y="31.34515"
+         x="171.91621"
+         y="30.769524"
          style="stroke-width:0.146446"
          id="tspan1709">  4 个 小正方形 但面和积  </tspan></text>
     <text
@@ -1778,7 +1778,7 @@
          id="tspan244"
          x="-98.866806"
          y="67.038139"
-         style="fill:#00ff00;stroke-width:0.148445">1</tspan></text>
+         style="fill:#00ff00;stroke-width:0.148445">i</tspan></text>
     <path
        style="fill:#f9f9f9;stroke:#a02c2c;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 112.76892,54.475598 v 6.46983"
@@ -1838,7 +1838,7 @@
          id="tspan266"
          x="-109.07629"
          y="60.953846"
-         style="fill:#0000ff;stroke-width:0.136293">1</tspan></text>
+         style="fill:#0000ff;stroke-width:0.136293">i</tspan></text>
     <rect
        ry="0"
        rx="0"
@@ -1870,7 +1870,7 @@
          id="tspan274"
          x="-103.34351"
          y="60.900997"
-         style="fill:#ff0000;stroke-width:0.10316">1</tspan></text>
+         style="fill:#ff0000;stroke-width:0.10316">i</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.42767px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.130053"
@@ -1882,7 +1882,7 @@
          id="tspan278"
          x="-116.18419"
          y="56.779865"
-         style="fill:#808000;stroke-width:0.130053">1</tspan></text>
+         style="fill:#808000;stroke-width:0.130053">i</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.42767px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.130053"
@@ -1894,7 +1894,7 @@
          id="tspan282"
          x="-118.90608"
          y="58.92168"
-         style="fill:#808000;stroke-width:0.130053">1</tspan></text>
+         style="fill:#808000;stroke-width:0.130053">i</tspan></text>
     <g
        id="g294"
        transform="translate(-50.482017,-200.04082)">
@@ -1950,7 +1950,7 @@
          id="tspan296"
          x="101.34208"
          y="60.13361"
-         style="fill:#ff0000;stroke-width:0.106473">1</tspan></text>
+         style="fill:#ff0000;stroke-width:0.106473">i</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#c87137;stroke-width:0.151701"
@@ -2035,35 +2035,50 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="152.56848"
-       y="40.777397"
+       x="173.22957"
+       y="42.869659"
        id="text330"><tspan
          sodipodi:role="line"
          id="tspan328"
-         x="152.56848"
-         y="40.777397"
+         x="173.22957"
+         y="42.869659"
          style="stroke-width:0.264583">2 = Integer:1+1 </tspan><tspan
          sodipodi:role="line"
-         x="152.56848"
-         y="45.187111"
+         x="173.22957"
+         y="47.279373"
          style="stroke-width:0.264583"
          id="tspan338">  SymbolVertical:11</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="94.315056"
-       y="41.054794"
+       style="font-size:2.23702px;line-height:1.25;font-family:sans-serif;stroke-width:0.167777"
+       x="94.490265"
+       y="40.074127"
        id="text334"><tspan
          sodipodi:role="line"
          id="tspan332"
-         x="94.315056"
-         y="41.054794"
-         style="stroke-width:0.264583">1= Float:0.5 + 0.5</tspan><tspan
+         x="94.490265"
+         y="40.074127"
+         style="stroke-width:0.167777" /><tspan
          sodipodi:role="line"
-         x="94.315056"
-         y="45.464508"
-         style="stroke-width:0.264583"
-         id="tspan336"> SymbolVertical:HalfShort: ii</tspan></text>
+         x="94.490265"
+         y="42.870403"
+         style="stroke-width:0.167777"
+         id="tspan299">1meter = 1Meter*1Meter = 1?SquaredMeters</tspan><tspan
+         sodipodi:role="line"
+         x="94.490265"
+         y="45.666676"
+         style="stroke-width:0.167777"
+         id="tspan297">1meter = 100cent * 100cent</tspan><tspan
+         sodipodi:role="line"
+         x="94.490265"
+         y="48.462952"
+         style="stroke-width:0.167777"
+         id="tspan301">1= Float:0.5 + 0.5</tspan><tspan
+         sodipodi:role="line"
+         x="94.490265"
+         y="51.259228"
+         style="stroke-width:0.167777"
+         id="tspan336">1=SymbolVertical:HalfShort: ii</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -2108,5 +2123,41 @@
          x="7.4795575"
          y="45.21809"
          style="stroke-width:0.264583">钫得</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.26055px;line-height:1.25;font-family:sans-serif;fill:#800000;stroke-width:0.169542"
+       x="139.63231"
+       y="1.1648494"
+       id="text295"><tspan
+         sodipodi:role="line"
+         id="tspan293"
+         x="139.63231"
+         y="1.1648494"
+         style="fill:#800000;stroke-width:0.169542">疑点：</tspan><tspan
+         sodipodi:role="line"
+         x="139.63231"
+         y="4.0474701"
+         style="fill:#800000;stroke-width:0.169542"
+         id="tspan303">定义为数值1单位预先切换</tspan><tspan
+         sodipodi:role="line"
+         x="139.63231"
+         y="6.9300909"
+         style="fill:#800000;stroke-width:0.169542"
+         id="tspan311">  同样面钫给予不同边长数值计算</tspan><tspan
+         sodipodi:role="line"
+         x="139.63231"
+         y="9.8127108"
+         style="fill:#800000;stroke-width:0.169542"
+         id="tspan305">平方算法精准性 </tspan><tspan
+         sodipodi:role="line"
+         x="139.63231"
+         y="12.695332"
+         style="fill:#800000;stroke-width:0.169542"
+         id="tspan307">是否连点 丈量 面切</tspan><tspan
+         sodipodi:role="line"
+         x="139.63231"
+         y="15.577951"
+         style="fill:#800000;stroke-width:0.169542"
+         id="tspan315"> 微弘引顺 阿拉伯数字 与 正方形边长线段</tspan></text>
   </g>
 </svg>
