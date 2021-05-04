@@ -12,7 +12,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="shapeable.svg">
   <defs
      id="defs2">
@@ -57,17 +57,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76877899"
-     inkscape:cx="566.9691"
-     inkscape:cy="814.60539"
+     inkscape:zoom="4.3488707"
+     inkscape:cx="644.26714"
+     inkscape:cy="432.86584"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1214"
-     inkscape:window-height="777"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="2770"
+     inkscape:window-height="1880"
+     inkscape:window-x="98"
+     inkscape:window-y="-12"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -147,8 +147,8 @@
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.65876px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="path39"
-       d="m 150.57214,121.77178 6.44071,-5.27321 6.46016,5.27321 -2.47121,8.54221 h -7.97791 z"
-       style="fill:none;stroke:#000000;stroke-width:0.408625px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 150.57214,122.19504 6.44071,-5.01193 6.46016,5.01193 -2.47121,8.11895 h -7.97791 z"
+       style="fill:none;stroke:#000000;stroke-width:0.398373px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="path43"
        d="m 150.86066,140.50529 2.99658,-5.99316 h 6.94662 l 2.97713,5.99316 -2.97713,5.99317 h -6.94662 z"
@@ -393,11 +393,11 @@
        style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0951849" />
     <path
        id="path55-3-7"
-       d="m 178.22048,99.684489 2.01995,6.614121 h 7.06158 l 2.03635,-6.614121 z"
+       d="m 195.49891,128.58327 2.01995,6.61412 h 7.06158 l 2.03635,-6.61412 z"
        style="fill:#f9f9f9;stroke:#000000;stroke-width:0.311391px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.259656px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
-       d="m 178.38187,99.684489 5.47825,-5.93172 5.47824,5.93172 z"
+       d="m 195.6603,128.58327 5.47825,-5.93172 5.47824,5.93172 z"
        id="path224-1" />
     <path
        style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.257446;stroke-miterlimit:4.5;stroke-dasharray:none"
@@ -646,5 +646,46 @@
        style="fill:#00ff66;stroke:#000000;stroke-width:0.224053px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        d="m 231.10199,145.60564 0.45266,-4.55672 4.54917,-0.44511 2.36134,4.2625 -3.09313,3.09313 z"
        id="path1072" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="164.08427"
+       y="88.460693"
+       id="text147"><tspan
+         sodipodi:role="line"
+         id="tspan145"
+         x="164.08427"
+         y="88.460693"
+         style="stroke-width:0.264583">正五边形 视觉偏差 </tspan><tspan
+         sodipodi:role="line"
+         x="164.08427"
+         y="92.959251"
+         style="stroke-width:0.264583"
+         id="tspan149">  视觉</tspan><tspan
+         sodipodi:role="line"
+         x="164.08427"
+         y="97.457817"
+         style="stroke-width:0.264583"
+         id="tspan157">  视力偏差</tspan><tspan
+         sodipodi:role="line"
+         x="164.08427"
+         y="101.95638"
+         style="stroke-width:0.264583"
+         id="tspan153">  时差</tspan><tspan
+         sodipodi:role="line"
+         x="164.08427"
+         y="106.45494"
+         style="stroke-width:0.264583"
+         id="tspan155">  察觉</tspan><tspan
+         sodipodi:role="line"
+         x="164.08427"
+         y="110.9535"
+         style="stroke-width:0.264583"
+         id="tspan159">?钝角组合梯形是正五边形</tspan><tspan
+         sodipodi:role="line"
+         x="164.08427"
+         y="115.45206"
+         style="stroke-width:0.264583"
+         id="tspan151">亚子角</tspan></text>
   </g>
 </svg>
