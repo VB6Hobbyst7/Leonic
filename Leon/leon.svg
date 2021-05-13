@@ -227,105 +227,6 @@
     </meshgradient>
     <meshgradient
        inkscape:collect="always"
-       id="meshgradient999"
-       gradientUnits="userSpaceOnUse"
-       x="157.31638"
-       y="53.876433">
-      <meshrow
-         id="meshrow1051">
-        <meshpatch
-           id="meshpatch1009">
-          <stop
-             path="l -11.9368,-0.452561"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1001" />
-          <stop
-             path="l 0.261287,-6.89174"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1003" />
-          <stop
-             path="l 0,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1005" />
-          <stop
-             path="l 11.6756,7.3443"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1007" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1017">
-          <stop
-             path="l -11.9368,-0.452563"
-             id="stop1011" />
-          <stop
-             path="l 12.1981,-6.43918"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1013" />
-          <stop
-             path="l 0,0"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1015" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1025">
-          <stop
-             path="l 6.36035,-10.1113"
-             id="stop1019" />
-          <stop
-             path="l 5.83778,3.67215"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1021" />
-          <stop
-             path="l 0,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1023" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1033">
-          <stop
-             path="l 6.36035,-10.1113"
-             id="stop1027" />
-          <stop
-             path="l -0.522574,13.7835"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1029" />
-          <stop
-             path="l 0,0"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1031" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1041">
-          <stop
-             path="l 5.57649,10.5639"
-             id="stop1035" />
-          <stop
-             path="l -6.09907,3.21959"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1037" />
-          <stop
-             path="l 0,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1039" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1049">
-          <stop
-             path="l 5.57649,10.5639"
-             id="stop1043" />
-          <stop
-             path="l -11.6756,-7.3443"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1045" />
-          <stop
-             path="l 0,0"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1047" />
-        </meshpatch>
-      </meshrow>
-    </meshgradient>
-    <meshgradient
-       inkscape:collect="always"
        id="meshgradient1085"
        gradientUnits="userSpaceOnUse"
        x="157.31638"
@@ -522,219 +423,21 @@
         </meshpatch>
       </meshrow>
     </meshgradient>
-    <meshgradient
-       y="53.876433"
-       x="157.31638"
-       gradientUnits="userSpaceOnUse"
-       id="meshgradient1215"
-       inkscape:collect="always">
-      <meshrow
-         id="meshrow1267">
-        <meshpatch
-           id="meshpatch1225">
-          <stop
-             id="stop1217"
-             style="stop-color:#ffffff;stop-opacity:1"
-             path="l -11.9368,-0.452561" />
-          <stop
-             id="stop1219"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             path="l 0.261287,-6.89174" />
-          <stop
-             id="stop1221"
-             style="stop-color:#ffffff;stop-opacity:1"
-             path="l 0,0" />
-          <stop
-             id="stop1223"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             path="l 11.6756,7.3443" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1233">
-          <stop
-             id="stop1227"
-             path="l -11.9368,-0.452563" />
-          <stop
-             id="stop1229"
-             style="stop-color:#ffffff;stop-opacity:1"
-             path="l 12.1981,-6.43918" />
-          <stop
-             id="stop1231"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             path="l 0,0" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1241">
-          <stop
-             id="stop1235"
-             path="l 6.36035,-10.1113" />
-          <stop
-             id="stop1237"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             path="l 5.83778,3.67215" />
-          <stop
-             id="stop1239"
-             style="stop-color:#ffffff;stop-opacity:1"
-             path="l 0,0" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1249">
-          <stop
-             id="stop1243"
-             path="l 6.36035,-10.1113" />
-          <stop
-             id="stop1245"
-             style="stop-color:#ffffff;stop-opacity:1"
-             path="l -0.522574,13.7835" />
-          <stop
-             id="stop1247"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             path="l 0,0" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1257">
-          <stop
-             id="stop1251"
-             path="l 5.57649,10.5639" />
-          <stop
-             id="stop1253"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             path="l -6.09907,3.21959" />
-          <stop
-             id="stop1255"
-             style="stop-color:#ffffff;stop-opacity:1"
-             path="l 0,0" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1265">
-          <stop
-             id="stop1259"
-             path="l 5.57649,10.5639" />
-          <stop
-             id="stop1261"
-             style="stop-color:#ffffff;stop-opacity:1"
-             path="l -11.6756,-7.3443" />
-          <stop
-             id="stop1263"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             path="l 0,0" />
-        </meshpatch>
-      </meshrow>
-    </meshgradient>
-    <meshgradient
-       y="53.876433"
-       x="157.31638"
-       gradientUnits="userSpaceOnUse"
-       id="meshgradient1273"
-       inkscape:collect="always">
-      <meshrow
-         id="meshrow1325">
-        <meshpatch
-           id="meshpatch1283">
-          <stop
-             path="l -11.9368,-0.452561"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1275" />
-          <stop
-             path="l 0.261287,-6.89174"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1277" />
-          <stop
-             path="l 0,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1279" />
-          <stop
-             path="l 11.6756,7.3443"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1281" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1291">
-          <stop
-             path="l -11.9368,-0.452563"
-             id="stop1285" />
-          <stop
-             path="l 12.1981,-6.43918"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1287" />
-          <stop
-             path="l 0,0"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1289" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1299">
-          <stop
-             path="l 6.36035,-10.1113"
-             id="stop1293" />
-          <stop
-             path="l 5.83778,3.67215"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1295" />
-          <stop
-             path="l 0,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1297" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1307">
-          <stop
-             path="l 6.36035,-10.1113"
-             id="stop1301" />
-          <stop
-             path="l -0.522574,13.7835"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1303" />
-          <stop
-             path="l 0,0"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1305" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1315">
-          <stop
-             path="l 5.57649,10.5639"
-             id="stop1309" />
-          <stop
-             path="l -6.09907,3.21959"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1311" />
-          <stop
-             path="l 0,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1313" />
-        </meshpatch>
-        <meshpatch
-           id="meshpatch1323">
-          <stop
-             path="l 5.57649,10.5639"
-             id="stop1317" />
-          <stop
-             path="l -11.6756,-7.3443"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop1319" />
-          <stop
-             path="l 0,0"
-             style="stop-color:#f9f9f9;stop-opacity:1"
-             id="stop1321" />
-        </meshpatch>
-      </meshrow>
-    </meshgradient>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
      inkscape:window-y="-12"
-     inkscape:window-x="98"
+     inkscape:window-x="-12"
      inkscape:window-height="1880"
-     inkscape:window-width="2770"
+     inkscape:window-width="2766"
      units="mm"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="345.94496"
-     inkscape:cx="511.69972"
-     inkscape:zoom="5.7228396"
+     inkscape:cy="202.30115"
+     inkscape:cx="201.82169"
+     inkscape:zoom="2.0233293"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -757,37 +460,6 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="图层 1">
-    <g
-       id="g1329">
-      <rect
-         transform="scale(1,-1)"
-         ry="0"
-         rx="0"
-         y="-255.55219"
-         x="109.79024"
-         height="39.579861"
-         width="39.579861"
-         id="rect1269"
-         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
-      <path
-         transform="matrix(1.202533,1.1303263,-1.1303263,1.202533,10.620455,11.378655)"
-         sodipodi:type="star"
-         style="fill:url(#meshgradient1273);fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-         id="path1271"
-         sodipodi:sides="3"
-         sodipodi:cx="145.64082"
-         sodipodi:cy="46.532131"
-         sodipodi:r1="13.793383"
-         sodipodi:r2="6.8966923"
-         sodipodi:arg1="0.56149366"
-         sodipodi:arg2="1.6086912"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z"
-         inkscape:transform-center-x="2.8694313"
-         inkscape:transform-center-y="3.0222208" />
-    </g>
     <path
        inkscape:original-d="m 166.68063,165.99875 c -3.03525,0.83154 -6.1249,1.67761 -9.18696,2.51576 -3.06204,0.83816 -0.12399,-0.20748 -0.18556,-0.31188 -0.0616,-0.10445 -5.81866,1.59375 -8.72757,2.38999"
        inkscape:path-effect="#path-effect2387"
@@ -846,69 +518,6 @@
          x="102.12537"
          y="10.947194"
          style="fill:#0000ff;stroke-width:0.101267" /></text>
-    <text
-       id="text2819"
-       y="70.523506"
-       x="4.3854198"
-       style="font-size:3.60869px;line-height:1.25;font-family:sans-serif;stroke-width:0.042289"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.042289"
-         y="70.523506"
-         x="4.3854198"
-         id="tspan2817"
-         sodipodi:role="line">Axis.CenterKover</tspan><tspan
-         id="tspan2821"
-         style="stroke-width:0.042289"
-         y="75.03437"
-         x="4.3854198"
-         sodipodi:role="line">Flat.Sequence Count.Sum:2(1)</tspan><tspan
-         style="stroke-width:0.042289"
-         y="79.545235"
-         x="4.3854198"
-         sodipodi:role="line"
-         id="tspan1253">Flat.Sequence?:</tspan><tspan
-         style="stroke-width:0.042289"
-         y="84.056091"
-         x="4.3854198"
-         sodipodi:role="line"
-         id="tspan1255">Area-&gt;Small.Angle</tspan><tspan
-         style="stroke-width:0.042289"
-         y="88.566956"
-         x="4.3854198"
-         sodipodi:role="line"
-         id="tspan1257">Circle~Transact.Caide</tspan><tspan
-         style="stroke-width:0.042289"
-         y="93.07782"
-         x="4.3854198"
-         sodipodi:role="line"
-         id="tspan1259">Rect-Ruled.Side|Angle</tspan></text>
-    <rect
-       ry="0"
-       rx="0"
-       y="96.891785"
-       x="10.638872"
-       height="15.253552"
-       width="15.253552"
-       id="rect2827"
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
-    <path
-       transform="matrix(0.19547996,0.37171177,0.37171177,-0.19547996,-2.8563643,92.476186)"
-       inkscape:transform-center-y="-1.4443217"
-       inkscape:transform-center-x="0.0045154727"
-       d="M 100.74877,109.22296 88.811925,108.7704 76.87508,108.31784 83.235432,98.206511 89.595785,88.095181 95.172278,98.659073 Z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="false"
-       sodipodi:arg2="1.6086912"
-       sodipodi:arg1="0.56149366"
-       sodipodi:r2="6.8966923"
-       sodipodi:r1="13.793384"
-       sodipodi:cy="101.87866"
-       sodipodi:cx="89.073212"
-       sodipodi:sides="3"
-       id="path2829"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.719394;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       sodipodi:type="star" />
     <path
        transform="rotate(30,145.64082,46.532133)"
        sodipodi:type="star"
@@ -927,81 +536,6 @@
        d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z"
        inkscape:transform-center-x="3.2195897"
        inkscape:transform-center-y="0.26128712" />
-    <ellipse
-       ry="4.4947639"
-       rx="4.2671809"
-       cy="104.2262"
-       cx="38.811249"
-       id="path2825"
-       style="fill:none;stroke:#000000;stroke-width:0.30213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.302759;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect2827-6"
-       width="9.2363405"
-       height="9.2363405"
-       x="47.990211"
-       y="124.55746"
-       rx="0"
-       ry="0" />
-    <path
-       sodipodi:type="star"
-       style="fill:#ececec;stroke:#000000;stroke-width:0.719394;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="path2829-8"
-       sodipodi:sides="3"
-       sodipodi:cx="89.073212"
-       sodipodi:cy="101.87866"
-       sodipodi:r1="13.793384"
-       sodipodi:r2="6.8966923"
-       sodipodi:arg1="0.56149366"
-       sodipodi:arg2="1.6086912"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="M 100.74877,109.22296 88.811925,108.7704 76.87508,108.31784 83.235432,98.206511 89.595785,88.095181 95.172278,98.659073 Z"
-       inkscape:transform-center-x="0.0074735039"
-       inkscape:transform-center-y="-2.3902327"
-       transform="matrix(0.32350308,0.6151521,0.6151521,-0.32350308,-73.533465,109.49898)" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:0.302759;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="path2825-6"
-       cx="38.966068"
-       cy="129.28966"
-       rx="4.276083"
-       ry="4.5041413" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.246759;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect2827-8"
-       width="7.5279226"
-       height="7.5279226"
-       x="37.931297"
-       y="151.57083"
-       rx="0"
-       ry="0" />
-    <path
-       sodipodi:type="star"
-       style="fill:none;stroke:#000000;stroke-width:0.719394;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="path2829-2"
-       sodipodi:sides="3"
-       sodipodi:cx="89.073212"
-       sodipodi:cy="101.87866"
-       sodipodi:r1="13.793384"
-       sodipodi:r2="6.8966923"
-       sodipodi:arg1="0.56149366"
-       sodipodi:arg2="1.6086912"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="M 100.74877,109.22296 88.811925,108.7704 76.87508,108.31784 83.235432,98.206511 89.595785,88.095181 95.172278,98.659073 Z"
-       inkscape:transform-center-x="0.0036880399"
-       inkscape:transform-center-y="-1.1796292"
-       transform="matrix(0.15965501,0.30358943,0.30358943,-0.15965501,7.6639256,145.73817)" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="path2825-1"
-       cx="18.816227"
-       cy="154.41803"
-       rx="7.0618296"
-       ry="7.4384608" />
     <rect
        ry="0"
        rx="0"
@@ -1036,27 +570,6 @@
        cx="254.21014"
        id="path2825-1-0"
        style="fill:none;stroke:#000000;stroke-width:1.44564;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.60868px;line-height:1.25;font-family:sans-serif;stroke-width:0.0422889"
-       x="8.7538395"
-       y="169.79587"
-       id="text2819-1"><tspan
-         sodipodi:role="line"
-         id="tspan2817-1"
-         x="8.7538395"
-         y="169.79587"
-         style="stroke-width:0.0422889">Axis.CenterKover</tspan><tspan
-         id="tspan5975"
-         sodipodi:role="line"
-         x="8.7538395"
-         y="174.30672"
-         style="stroke-width:0.0422889">Flat.Screen.Sequence  Count.Sum:3(2)</tspan><tspan
-         id="tspan5979"
-         sodipodi:role="line"
-         x="8.7538395"
-         y="178.81757"
-         style="stroke-width:0.0422889">Maticals.Tricylce.Each</tspan></text>
     <rect
        ry="0"
        rx="0"
@@ -1091,60 +604,6 @@
        cx="253.84537"
        id="ellipse982"
        style="fill:none;stroke:#000000;stroke-width:0.107193;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
-    <g
-       id="g1251"
-       transform="matrix(2.3820966,0,0,2.3820966,-382.6937,-296.25864)">
-      <rect
-         ry="0"
-         rx="0"
-         y="210.1272"
-         x="165.3763"
-         height="15.253552"
-         width="15.253552"
-         id="rect2827-8-2-1"
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
-      <ellipse
-         ry="7.4384618"
-         rx="7.0618296"
-         cy="217.75397"
-         cx="173.00307"
-         id="path2825-1-0-9"
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
-      <path
-         transform="matrix(0.42330241,0.4233024,-0.4233024,0.42330241,131.83381,135.26901)"
-         sodipodi:type="star"
-         style="fill:url(#meshgradient999);fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-         id="path2829-1-2"
-         sodipodi:sides="3"
-         sodipodi:cx="145.64082"
-         sodipodi:cy="46.532131"
-         sodipodi:r1="13.793383"
-         sodipodi:r2="6.8966923"
-         sodipodi:arg1="0.56149366"
-         sodipodi:arg2="1.6086912"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z"
-         inkscape:transform-center-x="0.91671557"
-         inkscape:transform-center-y="1.2188938" />
-    </g>
-    <text
-       id="text2819-1-4"
-       y="187.65353"
-       x="9.51472"
-       style="font-size:3.60868px;line-height:1.25;font-family:sans-serif;stroke-width:0.0422889"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.0422889"
-         y="187.65353"
-         x="9.51472"
-         id="tspan2817-1-6"
-         sodipodi:role="line">Axis.CenterKover</tspan><tspan
-         style="stroke-width:0.0422889"
-         y="192.16438"
-         x="9.51472"
-         sodipodi:role="line"
-         id="tspan5979-7">Axis.CenterPriorityOne:正三角形融在里面</tspan></text>
     <g
        id="g1246"
        transform="translate(107.87777,46.763048)">
@@ -1288,83 +747,6 @@
          y="113.49332"
          x="75.548065"
          sodipodi:role="line">不|动|名|形容</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.60868px;line-height:1.25;font-family:sans-serif;stroke-width:0.0422889"
-       x="96.972939"
-       y="180.20978"
-       id="text2819-1-4-4"><tspan
-         id="tspan5979-7-5"
-         sodipodi:role="line"
-         x="96.972939"
-         y="180.20978"
-         style="stroke-width:0.0422889">正三角形融在里面</tspan><tspan
-         id="tspan1183"
-         sodipodi:role="line"
-         x="96.972939"
-         y="184.81151"
-         style="stroke-width:0.0422889">Route.HandDraw.Dotline.RectangleWrappered</tspan><tspan
-         id="tspan1185"
-         sodipodi:role="line"
-         x="96.972939"
-         y="189.32236"
-         style="stroke-width:0.0422889">1.边贴后 三角形一个角不顶边</tspan><tspan
-         id="tspan1187"
-         sodipodi:role="line"
-         x="96.972939"
-         y="193.9241"
-         style="stroke-width:0.0422889">2.Axis.SideAttach.LeftOneAngle=Substract.Distance </tspan><tspan
-         id="tspan1189"
-         sodipodi:role="line"
-         x="96.972939"
-         y="198.43495"
-         style="stroke-width:0.0422889">3.顶角后 距离按照两边之核？未确定 应该是</tspan><tspan
-         id="tspan1191"
-         sodipodi:role="line"
-         x="96.972939"
-         y="203.03668"
-         style="stroke-width:0.0422889">4.Left.TwoAngles:</tspan><tspan
-         id="tspan1193"
-         sodipodi:role="line"
-         x="96.972939"
-         y="207.54753"
-         style="stroke-width:0.0422889">    Attached(顶？) </tspan><tspan
-         id="tspan1195"
-         sodipodi:role="line"
-         x="96.972939"
-         y="212.14928"
-         style="stroke-width:0.0422889">    Not</tspan></text>
-    <g
-       id="g1333">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-         id="rect1079-8-5"
-         width="39.579861"
-         height="39.579861"
-         x="160.80501"
-         y="-250.99086"
-         rx="0"
-         ry="0"
-         transform="scale(1,-1)" />
-      <path
-         inkscape:transform-center-y="-5.6223838"
-         inkscape:transform-center-x="0.079189078"
-         d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="1.6086912"
-         sodipodi:arg1="0.56149366"
-         sodipodi:r2="6.8966923"
-         sodipodi:r1="13.793383"
-         sodipodi:cy="46.532131"
-         sodipodi:cx="145.64082"
-         sodipodi:sides="3"
-         id="path2829-1-8-5"
-         style="fill:url(#meshgradient1215);fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-         sodipodi:type="star"
-         transform="matrix(1.6495807,-0.05105786,0.05105786,1.6495807,-61.948051,170.14779)" />
-    </g>
     <g
        id="g1295"
        transform="matrix(1,0,0,-1,-14.400011,550.07058)">
@@ -1643,17 +1025,6 @@
          y="95.712395"
          style="stroke-width:0.264583"
          id="tspan2269">Absolute.Tricycle | Not</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.49553px;line-height:1.25;font-family:sans-serif;stroke-width:0.18726"
-       x="9.7573919"
-       y="144.25955"
-       id="text2273"><tspan
-         sodipodi:role="line"
-         id="tspan2271"
-         x="9.7573919"
-         y="144.25955"
-         style="stroke-width:0.18726">Earthly.WrapperNote</tspan></text>
     <rect
        style="fill:#ececec;stroke:#550000;stroke-width:0.1"
        id="rect1025"
