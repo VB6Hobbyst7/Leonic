@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8614198"
-     inkscape:cx="285.86821"
-     inkscape:cy="598.38174"
+     inkscape:zoom="4.0466587"
+     inkscape:cx="144.67974"
+     inkscape:cy="205.29176"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,51 +54,51 @@
      id="layer1">
     <text
        id="text2819"
-       y="11.404814"
-       x="9.5104856"
+       y="7.0895252"
+       x="-79.279846"
        style="font-size:3.60868px;line-height:1.25;font-family:sans-serif;stroke-width:0.0422889"
        xml:space="preserve"><tspan
          style="stroke-width:0.0422889"
-         y="11.404814"
-         x="9.5104856"
+         y="7.0895252"
+         x="-79.279846"
          id="tspan2817"
          sodipodi:role="line">Axis.CenterKover</tspan><tspan
          id="tspan2821"
          style="stroke-width:0.0422889"
-         y="15.915664"
-         x="9.5104856"
+         y="11.600375"
+         x="-79.279846"
          sodipodi:role="line">Flat.Sequence Count.Sum:2(1)</tspan><tspan
          style="stroke-width:0.0422889"
-         y="20.426514"
-         x="9.5104856"
+         y="16.111225"
+         x="-79.279846"
          sodipodi:role="line"
          id="tspan1253">Flat.Sequence?:</tspan><tspan
          style="stroke-width:0.0422889"
-         y="24.937365"
-         x="9.5104856"
+         y="20.622076"
+         x="-79.279846"
          sodipodi:role="line"
          id="tspan1255">Area-&gt;Small.Angle</tspan><tspan
          style="stroke-width:0.0422889"
-         y="29.448214"
-         x="9.5104856"
+         y="25.132925"
+         x="-79.279846"
          sodipodi:role="line"
          id="tspan1257">Circle~Transact.Caide</tspan><tspan
          style="stroke-width:0.0422889"
-         y="33.959064"
-         x="9.5104856"
+         y="29.643776"
+         x="-79.279846"
          sodipodi:role="line"
          id="tspan1259">Rect-Ruled.Side|Angle</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="37.773094"
-       x="15.763938"
+       y="33.457806"
+       x="-73.02639"
        height="15.253552"
        width="15.253552"
        id="rect2827"
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
     <path
-       transform="matrix(0.19547996,0.37171178,0.37171178,-0.19547996,2.2687028,33.357492)"
+       transform="matrix(0.19547996,0.37171178,0.37171178,-0.19547996,-86.521629,29.042203)"
        inkscape:transform-center-y="-1.4443217"
        inkscape:transform-center-x="0.0045154727"
        d="M 100.74877,109.22296 88.811925,108.7704 76.87508,108.31784 83.235432,98.206511 89.595785,88.095181 95.172278,98.659073 Z"
@@ -118,8 +118,8 @@
     <ellipse
        ry="4.4947643"
        rx="4.2671809"
-       cy="45.107502"
-       cx="43.936321"
+       cy="40.792213"
+       cx="-44.854012"
        id="path2825"
        style="fill:none;stroke:#000000;stroke-width:0.30213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
     <rect
@@ -127,8 +127,8 @@
        id="rect2827-6"
        width="9.2363405"
        height="9.2363405"
-       x="53.115284"
-       y="65.438766"
+       x="-35.675049"
+       y="61.123478"
        rx="0"
        ry="0" />
     <path
@@ -148,12 +148,12 @@
        d="M 100.74877,109.22296 88.811925,108.7704 76.87508,108.31784 83.235432,98.206511 89.595785,88.095181 95.172278,98.659073 Z"
        inkscape:transform-center-x="0.0074735039"
        inkscape:transform-center-y="-2.3902327"
-       transform="matrix(0.32350308,0.6151521,0.6151521,-0.32350308,-68.408398,50.380286)" />
+       transform="matrix(0.32350308,0.6151521,0.6151521,-0.32350308,-157.19873,46.064997)" />
     <ellipse
        style="fill:none;stroke:#000000;stroke-width:0.30276;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="path2825-6"
-       cx="44.091137"
-       cy="70.170967"
+       cx="-44.699196"
+       cy="65.855675"
        rx="4.276083"
        ry="4.5041413" />
     <rect
@@ -161,8 +161,8 @@
        id="rect2827-8"
        width="7.5279231"
        height="7.5279231"
-       x="43.05637"
-       y="92.452141"
+       x="-45.733963"
+       y="88.136848"
        rx="0"
        ry="0" />
     <path
@@ -182,127 +182,127 @@
        d="M 100.74877,109.22296 88.811925,108.7704 76.87508,108.31784 83.235432,98.206511 89.595785,88.095181 95.172278,98.659073 Z"
        inkscape:transform-center-x="0.0036880399"
        inkscape:transform-center-y="-1.1796292"
-       transform="matrix(0.15965501,0.30358943,0.30358943,-0.15965501,12.788993,86.619476)" />
+       transform="matrix(0.15965501,0.30358943,0.30358943,-0.15965501,-76.001339,82.304187)" />
     <ellipse
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="path2825-1"
-       cx="23.941296"
-       cy="95.299339"
+       cx="-64.849037"
+       cy="90.984047"
        rx="7.0618296"
        ry="7.4384613" />
     <text
        xml:space="preserve"
        style="font-size:3.60868px;line-height:1.25;font-family:sans-serif;stroke-width:0.0422889"
-       x="13.878905"
-       y="110.67718"
+       x="5.7713933"
+       y="8.2871485"
        id="text2819-1"><tspan
          sodipodi:role="line"
          id="tspan2817-1"
-         x="13.878905"
-         y="110.67718"
+         x="5.7713933"
+         y="8.2871485"
          style="stroke-width:0.0422889">Axis.CenterKover</tspan><tspan
          id="tspan5975"
          sodipodi:role="line"
-         x="13.878905"
-         y="115.18803"
+         x="5.7713933"
+         y="12.797997"
          style="stroke-width:0.0422889">Flat.Screen.Sequence  Count.Sum:3(2)</tspan><tspan
          id="tspan5979"
          sodipodi:role="line"
-         x="13.878905"
-         y="119.69888"
+         x="5.7713933"
+         y="17.308847"
          style="stroke-width:0.0422889">Maticals.Tricylce.Each</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="164.1812"
-       x="101.60634"
-       height="28.067932"
-       width="28.067932"
+       y="43.417885"
+       x="63.916122"
+       height="16.69511"
+       width="16.69511"
        id="rect2827-8-2-1"
-       style="fill:none;stroke:#000000;stroke-width:0.193118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+       style="fill:none;stroke:#000000;stroke-width:0.114868;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
     <ellipse
-       ry="13.99294"
-       rx="13.839184"
-       cy="178.21515"
-       cx="115.6403"
+       ry="8.3231525"
+       rx="8.2316971"
+       cy="51.765427"
+       cx="72.263664"
        id="path2825-1-0-9"
-       style="fill:none;stroke:#000000;stroke-width:0.201507;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.60452101,0.60452101;stroke-opacity:1;paint-order:markers fill stroke;stroke-dashoffset:0" />
+       style="fill:none;stroke:#000000;stroke-width:0.119859;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.359575, 0.359575;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     <text
        id="text2819-1-4"
-       y="128.53484"
-       x="14.639789"
+       y="26.144808"
+       x="6.5322766"
        style="font-size:3.60868px;line-height:1.25;font-family:sans-serif;stroke-width:0.0422889"
        xml:space="preserve"><tspan
          style="stroke-width:0.0422889"
-         y="128.53484"
-         x="14.639789"
+         y="26.144808"
+         x="6.5322766"
          id="tspan2817-1-6"
          sodipodi:role="line">Axis.CenterKover</tspan><tspan
          style="stroke-width:0.0422889"
-         y="133.04568"
-         x="14.639789"
+         y="30.655657"
+         x="6.5322766"
          sodipodi:role="line"
          id="tspan5979-7">Axis.CenterPriorityOne:正三角形融在里面</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.49554px;line-height:1.25;font-family:sans-serif;stroke-width:0.18726"
-       x="14.882461"
-       y="85.140854"
+       x="-73.907867"
+       y="80.825562"
        id="text2273"><tspan
          sodipodi:role="line"
          id="tspan2271"
-         x="14.882461"
-         y="85.140854"
+         x="-73.907867"
+         y="80.825562"
          style="stroke-width:0.18726">Earthly.WrapperAngles</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.60868px;line-height:1.25;font-family:sans-serif;stroke-width:0.0422889"
-       x="78.886993"
-       y="8.5339308"
+       x="158.65445"
+       y="32.333401"
        id="text2819-1-4-4"><tspan
          id="tspan5979-7-5"
          sodipodi:role="line"
-         x="78.886993"
-         y="8.5339308"
+         x="158.65445"
+         y="32.333401"
          style="stroke-width:0.0422889">正三角形融在里面</tspan><tspan
          id="tspan1183"
          sodipodi:role="line"
-         x="78.886993"
-         y="13.135667"
+         x="158.65445"
+         y="36.935139"
          style="stroke-width:0.0422889">Route.HandDraw.Doline.FondWrappered</tspan><tspan
          id="tspan1185"
          sodipodi:role="line"
-         x="78.886993"
-         y="17.646517"
+         x="158.65445"
+         y="41.445988"
          style="stroke-width:0.0422889">1.边贴后 三角形一个角不顶边</tspan><tspan
          id="tspan1187"
          sodipodi:role="line"
-         x="78.886993"
-         y="22.248253"
+         x="158.65445"
+         y="46.047722"
          style="stroke-width:0.0422889">2.Axis.SideAttach.LeftOneAngle=Substract.Distance </tspan><tspan
          id="tspan1189"
          sodipodi:role="line"
-         x="78.886993"
-         y="26.759104"
+         x="158.65445"
+         y="50.558575"
          style="stroke-width:0.0422889">3.顶角后 距离按照两边之核？未确定 应该是</tspan><tspan
          id="tspan1191"
          sodipodi:role="line"
-         x="78.886993"
-         y="31.36084"
+         x="158.65445"
+         y="55.160309"
          style="stroke-width:0.0422889">4.Left.TwoAngles:</tspan><tspan
          id="tspan1193"
          sodipodi:role="line"
-         x="78.886993"
-         y="35.871689"
+         x="158.65445"
+         y="59.671158"
          style="stroke-width:0.0422889">    Attached(顶？) </tspan><tspan
          id="tspan1195"
          sodipodi:role="line"
-         x="78.886993"
-         y="40.473427"
+         x="158.65445"
+         y="64.272896"
          style="stroke-width:0.0422889">    Not</tspan></text>
     <g
        id="g1333"
-       transform="matrix(0.7323999,0,0,0.7323999,-108.91483,29.431109)">
+       transform="matrix(0.43563939,0,0,0.43563939,-63.984862,-24.113979)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
          id="rect1079-8-5"
@@ -334,7 +334,7 @@
     </g>
     <g
        id="g969"
-       transform="matrix(0.77206659,-0.02487534,0.02487534,0.77206659,60.02151,55.218485)">
+       transform="matrix(0.45923357,-0.01479612,0.01479612,0.45923357,39.181013,-21.394318)">
       <path
          transform="matrix(1.0105691,1.0061204,-1.0061204,1.0105691,-30.88411,-34.538982)"
          sodipodi:type="star"
@@ -365,14 +365,14 @@
        transform="scale(1,-1)"
        ry="0"
        rx="0"
-       y="-176.37621"
-       x="9.3292274"
-       height="28.988287"
-       width="28.988287"
+       y="-63.290554"
+       x="6.3479848"
+       height="17.242548"
+       width="17.242548"
        id="rect955"
-       style="fill:#ececec;stroke:#000000;stroke-width:0.21972;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
+       style="fill:#ececec;stroke:#000000;stroke-width:0.130692;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
     <path
-       transform="matrix(0.96793201,0.72397432,-0.72397432,0.96793201,-79.362583,9.9299934)"
+       transform="matrix(0.57573644,0.43062777,-0.43062777,0.57573644,-46.406865,-35.713454)"
        sodipodi:type="star"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="path957"
@@ -386,21 +386,21 @@
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       inkscape:transform-center-x="13.302513"
-       inkscape:transform-center-y="14.330319"
+       inkscape:transform-center-x="7.9124795"
+       inkscape:transform-center-y="8.5238292"
        d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z" />
     <rect
        transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
        ry="0"
        rx="0"
-       y="148.65852"
-       x="48.077042"
-       height="28.988287"
-       width="28.988287"
+       y="59.86998"
+       x="-0.62004942"
+       height="17.242548"
+       width="17.242548"
        id="rect963"
-       style="fill:#ececec;stroke:#000000;stroke-width:0.21972;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
+       style="fill:#ececec;stroke:#000000;stroke-width:0.130692;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
     <path
-       transform="matrix(-1.207831,0.04664339,-0.04664339,-1.207831,249.07986,212.84737)"
+       transform="matrix(-0.71843096,0.027744,-0.027744,-0.71843096,148.62427,85.75399)"
        sodipodi:type="star"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="path965"
@@ -414,22 +414,22 @@
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       inkscape:transform-center-x="0.19575094"
-       inkscape:transform-center-y="-12.452594"
+       inkscape:transform-center-x="0.11643004"
+       inkscape:transform-center-y="-7.406941"
        d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z" />
     <rect
-       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.21972;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.130692;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect971"
-       width="28.988287"
-       height="28.988287"
-       x="79.854118"
-       y="180.23589"
+       width="17.242548"
+       height="17.242548"
+       x="17.503487"
+       y="78.341415"
        rx="0"
        ry="0"
        transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" />
     <path
-       inkscape:transform-center-y="-4.3431086"
-       inkscape:transform-center-x="0.061174612"
+       inkscape:transform-center-y="-2.5833323"
+       inkscape:transform-center-x="0.036393852"
        inkscape:randomized="0"
        inkscape:rounded="0"
        inkscape:flatsided="false"
@@ -443,32 +443,114 @@
        id="path973"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        sodipodi:type="star"
-       transform="matrix(-0.82785087,0.88073506,-0.88073506,-0.82785087,228.20848,110.41835)"
+       transform="matrix(-0.49241466,0.52387075,-0.52387075,-0.49241466,136.53973,24.058105)"
        d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z" />
     <ellipse
-       style="fill:none;stroke:#000000;stroke-width:0.193117;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.772467, 0.772467;stroke-dashoffset:0;paint-order:markers fill stroke"
+       style="fill:none;stroke:#000000;stroke-width:0.114868;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.459471, 0.459471;stroke-dashoffset:0;paint-order:markers fill stroke"
        id="ellipse979"
-       cx="71.108284"
-       cy="204.34608"
-       rx="14.109975"
-       ry="14.726724" />
+       cx="43.094837"
+       cy="79.927338"
+       rx="8.392766"
+       ry="8.759614" />
     <ellipse
-       style="fill:none;stroke:#000000;stroke-width:0.193117;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.772467, 0.772467;stroke-dashoffset:0;paint-order:markers fill stroke"
+       style="fill:none;stroke:#000000;stroke-width:0.114868;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.459471, 0.459471;stroke-dashoffset:0;paint-order:markers fill stroke"
        id="ellipse981"
-       cx="71.108284"
-       cy="159.63293"
-       rx="14.109975"
-       ry="14.726724" />
+       cx="42.764839"
+       cy="54.101467"
+       rx="8.392766"
+       ry="8.759614" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="16.828768"
-       y="139.16096"
+       x="8.7212563"
+       y="36.770935"
        id="text985"><tspan
          sodipodi:role="line"
          id="tspan983"
-         x="16.828768"
-         y="139.16096"
+         x="8.7212563"
+         y="36.770935"
          style="stroke-width:0.264583">Axis.Adis.Immune.Umbrella.Adis:Eledies</tspan></text>
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.0666456;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.266582, 0.266582;stroke-dashoffset:0;paint-order:markers fill stroke"
+       id="ellipse890"
+       cx="42.627331"
+       cy="56.450016"
+       rx="4.8694119"
+       ry="5.0822549" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.0666456;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.266582, 0.266582;stroke-dashoffset:0;paint-order:markers fill stroke"
+       id="ellipse892"
+       cx="40.537342"
+       cy="77.459869"
+       rx="4.8694119"
+       ry="5.0822549" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.134791;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect894"
+       width="17.78334"
+       height="17.78334"
+       x="6.7673755"
+       y="-111.92397"
+       rx="0"
+       ry="0"
+       transform="scale(1,-1)" />
+    <path
+       inkscape:transform-center-y="-2.487441"
+       inkscape:transform-center-x="1.9415678"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.6086912"
+       sodipodi:arg1="0.56149366"
+       sodipodi:r2="6.8966923"
+       sodipodi:r1="13.793383"
+       sodipodi:cy="46.532131"
+       sodipodi:cx="145.64082"
+       sodipodi:sides="3"
+       id="path896"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       sodipodi:type="star"
+       transform="matrix(0.74116106,-0.02294043,0.02294043,0.74116106,-93.316175,75.600984)"
+       d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.118471;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.473882, 0.473882;stroke-dashoffset:0;paint-order:markers fill stroke"
+       id="ellipse898"
+       cx="-83.849152"
+       cy="-61.820953"
+       rx="8.6559954"
+       ry="9.0343494"
+       transform="rotate(-135)" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.0687358;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.274943, 0.274943;stroke-dashoffset:0;paint-order:markers fill stroke"
+       id="ellipse900"
+       cx="-86.486862"
+       cy="-64.365822"
+       rx="5.0221353"
+       ry="5.2416539"
+       transform="rotate(-135)" />
+    <circle
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.0577118;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path902"
+       cx="15.575136"
+       cy="103.00488"
+       r="0.22454984" />
+    <circle
+       style="fill:#ff00ff;stroke:#000000;stroke-width:0.0577118;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="circle904"
+       cx="15.641274"
+       cy="106.66929"
+       r="0.22454984" />
+    <circle
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.0577117;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path902-3"
+       cx="42.766254"
+       cy="56.400444"
+       r="0.22454986" />
+    <circle
+       style="fill:#ff00ff;stroke:#000000;stroke-width:0.0577117;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="circle904-0"
+       cx="42.772911"
+       cy="54.088348"
+       r="0.22454986" />
   </g>
 </svg>
