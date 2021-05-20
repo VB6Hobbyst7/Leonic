@@ -435,9 +435,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="202.30115"
-     inkscape:cx="201.82169"
-     inkscape:zoom="2.0233293"
+     inkscape:cy="215.59885"
+     inkscape:cx="243.62414"
+     inkscape:zoom="4.2492991"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -828,38 +828,34 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <g
-       transform="matrix(0.87761656,0,0,0.87761656,-25.344687,-36.613225)"
-       id="g1014">
-      <rect
-         style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.145247;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1002"
-         width="37.971371"
-         height="5.1320052"
-         x="45.009506"
-         y="94.262703" />
-      <circle
-         r="10.589511"
-         cy="96.828705"
-         cx="63.995193"
-         id="circle1004"
-         style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.153356;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle1006"
-         cx="63.995193"
-         cy="96.828705"
-         r="4.0442562" />
-      <circle
-         style="fill:#cccccc;stroke:#e6e6e6;stroke-width:0.212633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle1008"
-         cx="63.995193"
-         cy="96.828705"
-         r="3.2450807" />
-    </g>
+    <rect
+       style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.125104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1002"
+       width="32.081367"
+       height="4.5063"
+       x="14.155217"
+       y="46.112099" />
+    <circle
+       r="9.2935305"
+       cy="48.36525"
+       cx="30.1959"
+       id="circle1004"
+       style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.134588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:#f9f9f9;stroke:#808080;stroke-width:0.232568;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle1006"
+       cx="30.1959"
+       cy="48.36525"
+       r="3.5493062" />
+    <circle
+       style="fill:#cccccc;stroke:#e6e6e6;stroke-width:0.18661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle1008"
+       cx="30.1959"
+       cy="48.36525"
+       r="2.8479366" />
     <g
        id="g1046"
-       transform="matrix(0.12304219,-0.6042967,0.58057849,0.11821287,5.7750416,100.05729)"
+       transform="matrix(0.12304219,-0.6042967,0.58057849,0.11821287,1.2296841,98.811987)"
        style="stroke:#0c0404;stroke-width:0.249906;stroke-miterlimit:4;stroke-dasharray:0.999625, 0.249906;stroke-dashoffset:0;stroke-opacity:1">
       <rect
          transform="rotate(90)"
@@ -886,7 +882,7 @@
     </g>
     <g
        style="stroke:#5e5e5e;stroke-width:0.249906;stroke-miterlimit:4;stroke-dasharray:0.749719, 0.249906;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(-0.40364929,0.46624155,-0.44794191,-0.38780636,161.70167,36.257771)"
+       transform="matrix(-0.40364929,0.46624155,-0.44794191,-0.38780636,157.15631,35.012468)"
        id="g1054">
       <rect
          style="fill:#f9f9f9;stroke:#5e5e5e;stroke-width:0.249906;stroke-miterlimit:4;stroke-dasharray:0.749719, 0.249906;stroke-dashoffset:0;stroke-opacity:1"
@@ -912,7 +908,7 @@
          transform="rotate(90)" />
     </g>
     <g
-       transform="matrix(-0.61669598,0,0,-0.59249111,140.59051,105.49309)"
+       transform="matrix(-0.61669598,0,0,-0.59249111,136.04515,104.24779)"
        id="g1062">
       <rect
          style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.173186;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1030,16 +1026,43 @@
        id="rect1025"
        width="1.4332191"
        height="1.4332191"
-       x="39.898972"
-       y="50.624996" />
+       x="39.338585"
+       y="50.749527" />
     <rect
        style="fill:#ececec;stroke:#550000;stroke-width:0.142712"
        id="rect1027"
        width="1.3905071"
        height="3.0086577"
-       x="-3.3923085"
-       y="58.89336"
+       x="-3.8325896"
+       y="58.188911"
        transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="16.99839"
+       y="63.074615"
+       id="text1016"><tspan
+         sodipodi:role="line"
+         id="tspan1014"
+         x="16.99839"
+         y="63.074615"
+         style="stroke-width:0.264583">Camery //凯美瑞</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="59.712299"
+       y="64.755775"
+       id="text1020"><tspan
+         sodipodi:role="line"
+         id="tspan1018"
+         x="59.712299"
+         y="64.755775"
+         style="stroke-width:0.264583">莱克特Lect Layket</tspan><tspan
+         sodipodi:role="line"
+         x="59.712299"
+         y="69.254333"
+         style="stroke-width:0.264583"
+         id="tspan1022" /></text>
   </g>
   <script
      id="mesh_polyfill"
