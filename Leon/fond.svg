@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="fond.svg"
    id="svg373"
    version="1.1"
@@ -18,16 +18,16 @@
      id="defs367" />
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:window-height="777"
-     inkscape:window-width="1214"
+     inkscape:window-y="-12"
+     inkscape:window-x="102"
+     inkscape:window-height="1880"
+     inkscape:window-width="2766"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="431.34501"
-     inkscape:cx="182.24103"
+     inkscape:cy="120.22413"
+     inkscape:cx="430.71764"
      inkscape:zoom="4.0466586"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -66,8 +66,8 @@
        id="rect1522-7"
        width="6.4698386"
        height="6.4698381"
-       x="55.030376"
-       y="-169.63535"
+       x="55.94574"
+       y="-168.98151"
        rx="0"
        ry="0" />
     <rect
@@ -76,8 +76,8 @@
        id="rect1522-6"
        width="6.4698386"
        height="6.4698381"
-       x="55.030376"
-       y="-176.10518"
+       x="55.94574"
+       y="-175.45134"
        rx="0"
        ry="0" />
     <text
@@ -163,140 +163,140 @@
          sodipodi:role="line">全  边铯 全为 1 </tspan></text>
     <path
        id="path1535"
-       d="m 163.16553,55.030393 h 6.46983"
+       d="m 162.5117,55.945757 h 6.46983"
        style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text1539"
-       y="54.478893"
-       x="165.06938"
+       y="55.394257"
+       x="164.41554"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#ff0000;stroke-width:0.151701"
-         y="54.478893"
-         x="165.06938"
+         y="55.394257"
+         x="164.41554"
          id="tspan1537"
          sodipodi:role="line">1</tspan></text>
     <path
        id="path1541"
-       d="m 163.16553,55.030383 v 6.469832"
+       d="m 162.5117,55.945747 v 6.469832"
        style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text1545"
-       y="59.30637"
-       x="160.71519"
+       y="60.221733"
+       x="160.06136"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#ff0000;stroke-width:0.151701"
-         y="59.30637"
-         x="160.71519"
+         y="60.221733"
+         x="160.06136"
          id="tspan1543"
          sodipodi:role="line">1</tspan></text>
     <path
        id="path1547"
-       d="m 163.16553,61.500215 h 6.46983"
+       d="m 162.5117,62.415579 h 6.46983"
        style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        transform="scale(-1.1414219,0.87610024)"
        id="text1555"
-       y="67.671387"
-       x="-148.6875"
+       y="68.716202"
+       x="-148.11469"
        style="font-size:2.77098px;line-height:1.25;font-family:sans-serif;fill:#00ff00;stroke-width:0.148445"
        xml:space="preserve"><tspan
          style="fill:#00ff00;stroke-width:0.148445"
-         y="67.671387"
-         x="-148.6875"
+         y="68.716202"
+         x="-148.11469"
          id="tspan1553"
          sodipodi:role="line">1</tspan></text>
     <path
        id="path1557"
-       d="m 169.63536,55.030393 v 6.46983"
+       d="m 168.98153,55.945757 v 6.46983"
        style="fill:#f9f9f9;stroke:#a02c2c;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text1575"
-       y="59.030277"
-       x="177.29564"
+       y="59.945641"
+       x="176.6418"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#808000;stroke-width:0.151701"
-         y="59.030277"
-         x="177.29564"
+         y="59.945641"
+         x="176.6418"
          id="tspan1573"
          sodipodi:role="line">1</tspan></text>
     <text
        transform="scale(0.97821026,1.0222751)"
        id="text1579"
-       y="21.366932"
-       x="175.05768"
+       y="4.4818931"
+       x="167.97269"
        style="font-size:2.73365px;line-height:1.25;font-family:sans-serif;stroke-width:0.146446"
        xml:space="preserve"><tspan
          style="stroke-width:0.146446"
-         y="21.366932"
-         x="175.05768"
+         y="4.4818931"
+         x="167.97269"
          id="tspan1577"
          sodipodi:role="line">边长定义为：2 与左边面积痛痒像瞪</tspan><tspan
          id="tspan1703"
          style="stroke-width:0.146446"
-         y="24.852842"
-         x="175.05768"
+         y="7.9678035"
+         x="167.97269"
          sodipodi:role="line">周长 是 边2 * 4 = 8</tspan><tspan
          id="tspan1707"
          style="stroke-width:0.146446"
-         y="28.338753"
-         x="175.05768"
+         y="11.453714"
+         x="167.97269"
          sodipodi:role="line">面积 不适 边长2 * 边长2 = 4屏房 </tspan><tspan
          id="tspan346"
          style="stroke-width:0.146446"
-         y="31.824665"
-         x="175.05768"
+         y="14.939627"
+         x="167.97269"
          sodipodi:role="line">  4屏房 4*4 = 16 </tspan><tspan
          id="tspan1709"
          style="stroke-width:0.146446"
-         y="35.310577"
-         x="175.05768"
+         y="18.425535"
+         x="167.97269"
          sodipodi:role="line">  4 个 小正方形 但面和积  </tspan></text>
     <text
        id="text1583"
-       y="65.991219"
-       x="177.47414"
+       y="66.906586"
+       x="176.8203"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#808000;stroke-width:0.151701"
-         y="65.991219"
-         x="177.47414"
+         y="66.906586"
+         x="176.8203"
          id="tspan1581"
          sodipodi:role="line">1</tspan></text>
     <text
        id="text1587"
-       y="54.300396"
-       x="171.76259"
+       y="55.215759"
+       x="171.10875"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#808000;stroke-width:0.151701"
-         y="54.300396"
-         x="171.76259"
+         y="55.215759"
+         x="171.10875"
          id="tspan1585"
          sodipodi:role="line">1</tspan></text>
     <text
        id="text1591"
-       y="65.901985"
-       x="160.69647"
+       y="66.817352"
+       x="160.04263"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#808000;stroke-width:0.151701"
-         y="65.901985"
-         x="160.69647"
+         y="66.817352"
+         x="160.04263"
          id="tspan1589"
          sodipodi:role="line">1</tspan></text>
     <text
        transform="scale(-1.0479802,0.95421651)"
        id="text1603"
-       y="61.535259"
-       x="-163.3392"
+       y="62.494545"
+       x="-162.7153"
        style="font-size:2.54414px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.136293"
        xml:space="preserve"><tspan
          style="fill:#0000ff;stroke-width:0.136293"
-         y="61.535259"
-         x="-163.3392"
+         y="62.494545"
+         x="-162.7153"
          id="tspan1601"
          sodipodi:role="line">1</tspan></text>
     <rect
@@ -305,8 +305,8 @@
        id="rect1605"
        width="6.4698386"
        height="6.4698381"
-       x="61.500225"
-       y="-176.10518"
+       x="62.415588"
+       y="-175.45134"
        rx="0"
        ry="0" />
     <rect
@@ -315,48 +315,48 @@
        id="rect1607"
        width="6.4698386"
        height="6.4698381"
-       x="61.500225"
-       y="-169.63535"
+       x="62.415588"
+       y="-168.98151"
        rx="0"
        ry="0" />
     <text
        transform="scale(-1.0406853,0.96090528)"
        id="text1627"
-       y="61.478363"
-       x="-157.98679"
+       y="62.430969"
+       x="-157.35852"
        style="font-size:1.92566px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.10316"
        xml:space="preserve"><tspan
          style="fill:#ff0000;stroke-width:0.10316"
-         y="61.478363"
-         x="-157.98679"
+         y="62.430969"
+         x="-157.35852"
          id="tspan1625"
          sodipodi:role="line">1</tspan></text>
     <text
        transform="scale(-1,1)"
        id="text1631"
-       y="57.33466"
-       x="-173.05061"
+       y="58.250023"
+       x="-172.39677"
        style="font-size:2.42767px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.130053"
        xml:space="preserve"><tspan
          style="fill:#808000;stroke-width:0.130053"
-         y="57.33466"
-         x="-173.05061"
+         y="58.250023"
+         x="-172.39677"
          id="tspan1629"
          sodipodi:role="line">1</tspan></text>
     <text
        transform="scale(-1,1)"
        id="text1635"
-       y="59.476475"
-       x="-175.77254"
+       y="60.391838"
+       x="-175.1187"
        style="font-size:2.42767px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.130053"
        xml:space="preserve"><tspan
          style="fill:#808000;stroke-width:0.130053"
-         y="59.476475"
-         x="-175.77254"
+         y="60.391838"
+         x="-175.1187"
          id="tspan1633"
          sodipodi:role="line">1</tspan></text>
     <g
-       transform="translate(6.3844209,-199.48603)"
+       transform="translate(5.7305893,-198.57067)"
        id="g1669">
       <rect
          transform="rotate(90)"
@@ -402,35 +402,35 @@
     <text
        transform="scale(1.0741073,0.93100568)"
        id="text1623"
-       y="60.729519"
-       x="154.28506"
+       y="61.712719"
+       x="153.67635"
        style="font-size:1.9875px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.106473"
        xml:space="preserve"><tspan
          style="fill:#ff0000;stroke-width:0.106473"
-         y="60.729519"
-         x="154.28506"
+         y="61.712719"
+         x="153.67635"
          id="tspan1621"
          sodipodi:role="line">1</tspan></text>
     <text
        id="text1697"
-       y="70.790863"
-       x="166.06125"
+       y="71.70623"
+       x="165.40741"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#c87137;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#c87137;stroke-width:0.151701"
-         y="70.790863"
-         x="166.06125"
+         y="71.70623"
+         x="165.40741"
          id="tspan1695"
          sodipodi:role="line">1</tspan></text>
     <text
        id="text1701"
-       y="70.747589"
-       x="172.74561"
+       y="71.662956"
+       x="172.09177"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#c87137;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#c87137;stroke-width:0.151701"
-         y="70.747589"
-         x="172.74561"
+         y="71.662956"
+         x="172.09177"
          id="tspan1699"
          sodipodi:role="line">1</tspan></text>
     <rect
@@ -1719,8 +1719,8 @@
        id="rect226"
        width="6.4698386"
        height="6.4698381"
-       x="54.475582"
-       y="-112.76891"
+       x="55.390945"
+       y="-112.11508"
        rx="0"
        ry="0" />
     <rect
@@ -1729,114 +1729,114 @@
        id="rect228"
        width="6.4698386"
        height="6.4698381"
-       x="54.475582"
-       y="-119.23874"
+       x="55.390945"
+       y="-118.58491"
        rx="0"
        ry="0" />
     <path
        id="path230"
-       d="m 106.29909,54.475598 h 6.46983"
+       d="m 105.64526,55.390962 h 6.46983"
        style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text234"
-       y="53.924099"
-       x="108.20294"
+       y="54.839462"
+       x="107.54911"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#ff0000;stroke-width:0.151701"
-         y="53.924099"
-         x="108.20294"
+         y="54.839462"
+         x="107.54911"
          id="tspan232"
          sodipodi:role="line">i</tspan></text>
     <path
        id="path236"
-       d="M 106.29909,54.475588 V 60.94542"
+       d="m 105.64526,55.390952 v 6.469832"
        style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text240"
-       y="58.751575"
-       x="103.84876"
+       y="59.666939"
+       x="103.19493"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#ff0000;stroke-width:0.151701"
-         y="58.751575"
-         x="103.84876"
+         y="59.666939"
+         x="103.19493"
          id="tspan238"
          sodipodi:role="line">i</tspan></text>
     <path
        id="path242"
-       d="m 106.29909,60.94542 h 6.46983"
+       d="m 105.64526,61.860784 h 6.46983"
        style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        transform="scale(-1.1414219,0.87610024)"
        id="text246"
-       y="67.038139"
-       x="-98.866806"
+       y="68.082954"
+       x="-98.293983"
        style="font-size:2.77098px;line-height:1.25;font-family:sans-serif;fill:#00ff00;stroke-width:0.148445"
        xml:space="preserve"><tspan
          style="fill:#00ff00;stroke-width:0.148445"
-         y="67.038139"
-         x="-98.866806"
+         y="68.082954"
+         x="-98.293983"
          id="tspan244"
          sodipodi:role="line">i</tspan></text>
     <path
        id="path248"
-       d="m 112.76892,54.475598 v 6.46983"
+       d="m 112.11509,55.390962 v 6.46983"
        style="fill:#f9f9f9;stroke:#a02c2c;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text252"
-       y="58.475483"
-       x="120.4292"
+       y="59.390846"
+       x="119.77537"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#808000;stroke-width:0.151701"
-         y="58.475483"
-         x="120.4292"
+         y="59.390846"
+         x="119.77537"
          id="tspan250"
          sodipodi:role="line">i</tspan></text>
     <text
        id="text256"
-       y="65.436424"
-       x="120.60769"
+       y="66.351791"
+       x="119.95386"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#808000;stroke-width:0.151701"
-         y="65.436424"
-         x="120.60769"
+         y="66.351791"
+         x="119.95386"
          id="tspan254"
          sodipodi:role="line">i</tspan></text>
     <text
        id="text260"
-       y="53.745602"
-       x="114.89616"
+       y="54.660965"
+       x="114.24232"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#808000;stroke-width:0.151701"
-         y="53.745602"
-         x="114.89616"
+         y="54.660965"
+         x="114.24232"
          id="tspan258"
          sodipodi:role="line">i</tspan></text>
     <text
        id="text264"
-       y="65.347191"
-       x="103.83006"
+       y="66.262558"
+       x="103.17623"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#808000;stroke-width:0.151701"
-         y="65.347191"
-         x="103.83006"
+         y="66.262558"
+         x="103.17623"
          id="tspan262"
          sodipodi:role="line">i</tspan></text>
     <text
        transform="scale(-1.0479802,0.95421651)"
        id="text268"
-       y="60.953846"
-       x="-109.07629"
+       y="61.913132"
+       x="-108.45239"
        style="font-size:2.54414px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.136293"
        xml:space="preserve"><tspan
          style="fill:#0000ff;stroke-width:0.136293"
-         y="60.953846"
-         x="-109.07629"
+         y="61.913132"
+         x="-108.45239"
          id="tspan266"
          sodipodi:role="line">i</tspan></text>
     <rect
@@ -1845,8 +1845,8 @@
        id="rect270"
        width="6.4698386"
        height="6.4698381"
-       x="60.945431"
-       y="-119.23874"
+       x="61.860794"
+       y="-118.58491"
        rx="0"
        ry="0" />
     <rect
@@ -1855,48 +1855,48 @@
        id="rect272"
        width="6.4698386"
        height="6.4698381"
-       x="60.945431"
-       y="-112.76891"
+       x="61.860794"
+       y="-112.11508"
        rx="0"
        ry="0" />
     <text
        transform="scale(-1.0406853,0.96090528)"
        id="text276"
-       y="60.900997"
-       x="-103.34351"
+       y="61.853603"
+       x="-102.71524"
        style="font-size:1.92566px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.10316"
        xml:space="preserve"><tspan
          style="fill:#ff0000;stroke-width:0.10316"
-         y="60.900997"
-         x="-103.34351"
+         y="61.853603"
+         x="-102.71524"
          id="tspan274"
          sodipodi:role="line">i</tspan></text>
     <text
        transform="scale(-1,1)"
        id="text280"
-       y="56.779865"
-       x="-116.18419"
+       y="57.695229"
+       x="-115.53036"
        style="font-size:2.42767px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.130053"
        xml:space="preserve"><tspan
          style="fill:#808000;stroke-width:0.130053"
-         y="56.779865"
-         x="-116.18419"
+         y="57.695229"
+         x="-115.53036"
          id="tspan278"
          sodipodi:role="line">i</tspan></text>
     <text
        transform="scale(-1,1)"
        id="text284"
-       y="58.92168"
-       x="-118.90608"
+       y="59.837044"
+       x="-118.25225"
        style="font-size:2.42767px;line-height:1.25;font-family:sans-serif;fill:#808000;stroke-width:0.130053"
        xml:space="preserve"><tspan
          style="fill:#808000;stroke-width:0.130053"
-         y="58.92168"
-         x="-118.90608"
+         y="59.837044"
+         x="-118.25225"
          id="tspan282"
          sodipodi:role="line">i</tspan></text>
     <g
-       transform="translate(-50.482017,-200.04082)"
+       transform="translate(-51.135849,-199.12546)"
        id="g294">
       <rect
          transform="rotate(90)"
@@ -1942,84 +1942,84 @@
     <text
        transform="scale(1.0741073,0.93100568)"
        id="text298"
-       y="60.13361"
-       x="101.34208"
+       y="61.11681"
+       x="100.73336"
        style="font-size:1.9875px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.106473"
        xml:space="preserve"><tspan
          style="fill:#ff0000;stroke-width:0.106473"
-         y="60.13361"
-         x="101.34208"
+         y="61.11681"
+         x="100.73336"
          id="tspan296"
          sodipodi:role="line">i</tspan></text>
     <text
        id="text302"
-       y="70.236069"
-       x="109.19481"
+       y="71.151436"
+       x="108.54098"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#c87137;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#c87137;stroke-width:0.151701"
-         y="70.236069"
-         x="109.19481"
+         y="71.151436"
+         x="108.54098"
          id="tspan300"
          sodipodi:role="line">i</tspan></text>
     <text
        id="text306"
-       y="70.192795"
-       x="115.87917"
+       y="71.108162"
+       x="115.22534"
        style="font-size:2.83178px;line-height:1.25;font-family:sans-serif;fill:#c87137;stroke-width:0.151701"
        xml:space="preserve"><tspan
          style="fill:#c87137;stroke-width:0.151701"
-         y="70.192795"
-         x="115.87917"
+         y="71.108162"
+         x="115.22534"
          id="tspan304"
          sodipodi:role="line">i</tspan></text>
     <text
        transform="scale(0.97821026,1.0222751)"
        id="text316"
-       y="18.306015"
-       x="96.383812"
+       y="17.346638"
+       x="81.077545"
        style="font-size:2.73365px;line-height:1.25;font-family:sans-serif;stroke-width:0.146446"
        xml:space="preserve"><tspan
          style="stroke-width:0.146446"
-         y="18.306015"
-         x="96.383812"
+         y="17.346638"
+         x="81.077545"
          id="tspan308"
          sodipodi:role="line">边长定义为：1 (!面积)和右边的相等</tspan><tspan
          id="tspan310"
          style="stroke-width:0.146446"
-         y="21.791925"
-         x="96.383812"
+         y="20.832548"
+         x="81.077545"
          sodipodi:role="line">周长 是 边1 * 4 = 4</tspan><tspan
          id="tspan312"
          style="stroke-width:0.146446"
-         y="25.277836"
-         x="96.383812"
+         y="24.318459"
+         x="81.077545"
          sodipodi:role="line">面积 不适 边长1 * 边长1 = 1（屁放）</tspan><tspan
          id="tspan326"
          style="stroke-width:0.146446"
-         y="28.763748"
-         x="96.383812"
+         y="27.804371"
+         x="81.077545"
          sodipodi:role="line">  1屁放 4*0.5 = 2</tspan><tspan
          id="tspan314"
          style="stroke-width:0.146446"
-         y="32.249657"
-         x="96.383812"
+         y="31.290279"
+         x="81.077545"
          sodipodi:role="line">  4 个 小正方形 但面与积  </tspan></text>
     <text
        id="text320"
-       y="7.5619926"
-       x="94.536804"
+       y="6.5812454"
+       x="79.564056"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="7.5619926"
-         x="94.536804"
+         y="6.5812454"
+         x="79.564056"
          id="tspan318"
          sodipodi:role="line">正方形 面积 源起 偏差</tspan><tspan
          id="tspan340"
          style="stroke-width:0.264583"
-         y="12.060554"
-         x="94.536804"
+         y="11.079806"
+         x="79.564056"
          sodipodi:role="line" /></text>
     <text
        id="text324"
@@ -2050,34 +2050,34 @@
          sodipodi:role="line">  SymbolVertical:11</tspan></text>
     <text
        id="text334"
-       y="40.074127"
-       x="94.490265"
+       y="37.131886"
+       x="79.517517"
        style="font-size:2.23702px;line-height:1.25;font-family:sans-serif;stroke-width:0.167777"
        xml:space="preserve"><tspan
          style="stroke-width:0.167777"
-         y="40.074127"
-         x="94.490265"
+         y="37.131886"
+         x="79.517517"
          id="tspan332"
          sodipodi:role="line" /><tspan
          id="tspan299"
          style="stroke-width:0.167777"
-         y="42.870403"
-         x="94.490265"
+         y="39.928162"
+         x="79.517517"
          sodipodi:role="line">1meter = 1Meter*1Meter = 1?SquaredMeters</tspan><tspan
          id="tspan297"
          style="stroke-width:0.167777"
-         y="45.666676"
-         x="94.490265"
+         y="42.724434"
+         x="79.517517"
          sodipodi:role="line">1meter = 100cent * 100cent</tspan><tspan
          id="tspan301"
          style="stroke-width:0.167777"
-         y="48.462952"
-         x="94.490265"
+         y="45.52071"
+         x="79.517517"
          sodipodi:role="line">1= Float:0.5 + 0.5</tspan><tspan
          id="tspan336"
          style="stroke-width:0.167777"
-         y="51.259228"
-         x="94.490265"
+         y="48.316986"
+         x="79.517517"
          sodipodi:role="line">1=SymbolVertical:HalfShort: ii</tspan></text>
     <text
        id="text344"
@@ -2125,53 +2125,53 @@
          sodipodi:role="line">钫得</tspan></text>
     <text
        id="text295"
-       y="-2.1696918"
-       x="142.83607"
+       y="17.379873"
+       x="125.70568"
        style="font-size:2.26055px;line-height:1.25;font-family:sans-serif;fill:#800000;stroke-width:0.169542"
        xml:space="preserve"><tspan
          style="fill:#800000;stroke-width:0.169542"
-         y="-2.1696918"
-         x="142.83607"
+         y="17.379873"
+         x="125.70568"
          id="tspan293"
          sodipodi:role="line">疑点：</tspan><tspan
          id="tspan303"
          style="fill:#800000;stroke-width:0.169542"
-         y="0.71292889"
-         x="142.83607"
+         y="20.262493"
+         x="125.70568"
          sodipodi:role="line">定义为数值1单位预先切换</tspan><tspan
          id="tspan311"
          style="fill:#800000;stroke-width:0.169542"
-         y="3.5955493"
-         x="142.83607"
+         y="23.145115"
+         x="125.70568"
          sodipodi:role="line">  同样面钫给予不同边长数值计算</tspan><tspan
          id="tspan305"
          style="fill:#800000;stroke-width:0.169542"
-         y="6.4781699"
-         x="142.83607"
+         y="26.027735"
+         x="125.70568"
          sodipodi:role="line">平方算法精准性 </tspan><tspan
          id="tspan307"
          style="fill:#800000;stroke-width:0.169542"
-         y="9.3607912"
-         x="142.83607"
+         y="28.910357"
+         x="125.70568"
          sodipodi:role="line">是否连点 丈量 面切</tspan><tspan
          id="tspan315"
          style="fill:#800000;stroke-width:0.169542"
-         y="12.243412"
-         x="142.83607"
+         y="31.792976"
+         x="125.70568"
          sodipodi:role="line"> 微弘引顺 阿拉伯数字 与 正方形边长线段</tspan><tspan
          id="tspan316"
          style="fill:#800000;stroke-width:0.169542"
-         y="15.126032"
-         x="142.83607"
-         sodipodi:role="line">填满 面切 几何乘法 不会用杜伯里克不用面切 </tspan></text>
+         y="34.675598"
+         x="125.70568"
+         sodipodi:role="line">最小单位填满分析 面切 几何乘法 不会用杜伯里克不用面切 </tspan></text>
     <rect
        transform="rotate(90)"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0509386;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect321"
        width="6.4698386"
        height="6.4698381"
-       x="54.311161"
-       y="-138.05528"
+       x="55.226524"
+       y="-137.40144"
        rx="0"
        ry="0" />
     <rect
@@ -2180,25 +2180,25 @@
        id="rect323"
        width="6.4698386"
        height="6.4698381"
-       x="54.311161"
-       y="-144.52512"
+       x="55.226524"
+       y="-143.87128"
        rx="0"
        ry="0" />
     <path
        id="path325"
-       d="m 131.58546,54.311178 h 6.46983"
+       d="m 130.93163,55.226542 h 6.46983"
        style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="path331"
-       d="M 131.58546,54.311168 V 60.781"
+       d="m 130.93163,55.226532 v 6.469832"
        style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="path337"
-       d="m 131.58546,60.781 h 6.46983"
+       d="m 130.93163,61.696364 h 6.46983"
        style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="path343"
-       d="m 138.05529,54.311178 v 6.46983"
+       d="m 137.40146,55.226542 v 6.46983"
        style="fill:#f9f9f9;stroke:#a02c2c;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(90)"
@@ -2206,8 +2206,8 @@
        id="rect365"
        width="6.4698386"
        height="6.4698381"
-       x="60.78101"
-       y="-144.52512"
+       x="61.696373"
+       y="-143.87128"
        rx="0"
        ry="0" />
     <rect
@@ -2216,12 +2216,12 @@
        id="rect367"
        width="6.4698386"
        height="6.4698381"
-       x="60.78101"
-       y="-138.05528"
+       x="61.696373"
+       y="-137.40144"
        rx="0"
        ry="0" />
     <g
-       transform="translate(-25.195646,-200.20524)"
+       transform="translate(-25.849478,-199.28988)"
        id="g389">
       <rect
          transform="rotate(90)"
