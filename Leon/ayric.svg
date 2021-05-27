@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="ayric.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect855"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.7228395"
+     inkscape:cx="437.6672"
+     inkscape:cy="173.71699"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2766"
+     inkscape:window-height="1880"
+     inkscape:window-x="102"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:5.00777px;line-height:1.25;font-family:sans-serif;stroke-width:0.375583"
+       x="9.0582581"
+       y="14.34423"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="9.0582581"
+         y="14.34423"
+         style="stroke-width:0.375583">艾立克 Alyic</tspan><tspan
+         sodipodi:role="line"
+         x="9.0582581"
+         y="20.730064"
+         style="stroke-width:0.375583"
+         id="tspan837">艾瑞克 Ayrick</tspan><tspan
+         sodipodi:role="line"
+         x="9.0582581"
+         y="27.115898"
+         style="stroke-width:0.375583"
+         id="tspan839">艾瑞亚 Ayria Eyria</tspan><tspan
+         sodipodi:role="line"
+         x="9.0582581"
+         y="33.501732"
+         style="stroke-width:0.375583"
+         id="tspan841">艾瑞利亚 Ayrilia Eyrilia</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.559166"
+       id="rect843"
+       width="37.279636"
+       height="37.279636"
+       x="87.236649"
+       y="30.986109" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.559166"
+       id="rect845"
+       width="37.279636"
+       height="37.279636"
+       x="136.16463"
+       y="31.129461" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="36.081387"
+       y="16.036171"
+       id="text849"><tspan
+         sodipodi:role="line"
+         id="tspan847"
+         x="36.081387"
+         y="16.036171"
+         style="stroke-width:0.264583"></tspan></text>
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.251219"
+       id="path851"
+       cx="105.87647"
+       cy="49.625927"
+       r="18.525169" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 74.989726,31.068494 2.866438,13.222602"
+       id="path853"
+       inkscape:path-effect="#path-effect855"
+       inkscape:original-d="m 74.989726,31.068494 c 0.955744,4.407797 1.911223,8.815332 2.866438,13.222602" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.0079375;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="circle857"
+       cx="106.08453"
+       cy="49.417877"
+       r="26.492552" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.0079375;stroke-miterlimit:4;stroke-dasharray:0.0079375,0.0079375;stroke-dashoffset:0"
+       id="circle857-0"
+       cx="47.052799"
+       cy="78.203064"
+       r="26.492554" />
+  </g>
+</svg>
