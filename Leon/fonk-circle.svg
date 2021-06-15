@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="fonk-circle.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="238.22699"
+     inkscape:cy="174.14094"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2766"
+     inkscape:window-height="1880"
+     inkscape:window-x="102"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect833"
+       width="41.546497"
+       height="41.546497"
+       x="129.21243"
+       y="15.781775" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect841"
+       width="41.546497"
+       height="41.546497"
+       x="129.21243"
+       y="15.781775"
+       rx="20.773249"
+       ry="20.773249" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.210903;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect843"
+       width="29.207561"
+       height="29.207561"
+       x="119.54823"
+       y="-91.155167"
+       transform="rotate(43.3824)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="145.28459"
+       y="36.616444"
+       id="text847"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="145.28459"
+         y="36.616444"
+         style="stroke-width:0.264583">Rotate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="16.536459"
+       y="19.276787"
+       id="text851"><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="19.276787"
+         style="stroke-width:0.264583"
+         id="tspan853">Fonc:Artfoc</tspan><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="23.686499"
+         style="stroke-width:0.264583"
+         id="tspan861"> Wrapper</tspan><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="28.096212"
+         style="stroke-width:0.264583"
+         id="tspan863">  Ryber</tspan><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="32.505924"
+         style="stroke-width:0.264583"
+         id="tspan865">  Central.Ruler.Roller.Campass</tspan><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="36.915638"
+         style="stroke-width:0.264583"
+         id="tspan871">  Center.Rotate.Without.Fonicalled.Leatio.Offset</tspan><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="41.325348"
+         style="stroke-width:0.264583"
+         id="tspan873">  Keypoint:FirstPerson.</tspan><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="45.735062"
+         style="stroke-width:0.264583"
+         id="tspan877">    //在一个平面内，围绕一个点并以一定长度为距离旋转一周所形成的封闭曲线叫做圆(Circle)。</tspan><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="50.233624"
+         style="stroke-width:0.264583"
+         id="tspan883">    //https://baike.baidu.com/item/%E5%9C%86/54084</tspan><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="54.643337"
+         style="stroke-width:0.264583"
+         id="tspan879">      </tspan><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="59.141895"
+         style="stroke-width:0.264583"
+         id="tspan875" /><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="63.551609"
+         style="stroke-width:0.264583"
+         id="tspan867">  Axis.Central</tspan><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="67.961319"
+         style="stroke-width:0.264583"
+         id="tspan869">  Axiz.Angle</tspan><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="72.371033"
+         style="stroke-width:0.264583"
+         id="tspan857" /><tspan
+         sodipodi:role="line"
+         x="16.536459"
+         y="76.780746"
+         style="stroke-width:0.264583"
+         id="tspan859">FoncAvery</tspan></text>
+  </g>
+</svg>
